@@ -8,3 +8,4 @@ resources/zzzOld/
 .Rproj.user
 .Rproj.user/*.*
 .httr-oauth
+.Rhistory

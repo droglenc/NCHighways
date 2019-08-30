@@ -3,3 +3,8 @@ Year_Specific/
 
 ## Old administrative stuff that does not need to be in the repo
 resources/zzzOld/
+
+## R project info
+.Rproj.user
+.Rproj.user/*.*
+.httr-oauth

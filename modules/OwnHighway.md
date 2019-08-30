@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Bivariate EDA - Quantitative
+title: Charting Your Own Highway
+subtitle: Academic Integrity and Active Learning
 css: /css/modules.css
 ---
 
@@ -48,11 +49,5 @@ Use the materials below to answer the questions on [this preparation guide](BEDA
 
 * [Exercises](CE/BEDAQuant_CE1) ([*more as time permits*](CE/BEDAQuant_CE2)) ... [ANSWER KEY](CE/KEY_BEDAQuant_CE)
 * Review Exercises: [Definitions and Calculations](RE/BEDAQuant_RevEx_Defns) / [EDA](RE/BEDAQuant_RevEx_EDA)
-
-----
-
-## Archived Materials
-
-* [Old Lecture Slides](PPT/BEDAQuant_PPT_old.pptx)
 
 ----

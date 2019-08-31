@@ -3,21 +3,14 @@ layout: page
 title: Resources
 ---
 
-## Administrative
-1. [Daily Preparation Check](){:target="_blank"} 
-1. [Anonymous Message to Dr. Ogle](https://www.surveymonkey.com/r/KC87PJW){:target="_blank"}
-1. Student Opinion Surveys -- [Section 1](https://northland.iasystem.org/survey/4284) and [Section 2](https://northland.iasystem.org/survey/4282)
-1. [Data Files](data_107)
+## Northland College -- General
+1. [Northland Mission](https://www.northland.edu/about/#mission-vision){:target="_blank"}
+1. [Academic Programs](https://www.northland.edu/academics/){:target="_blank"} (i.e., majors/minors)
 
-## Learning Assistance
-1. Glossary -- [Symbols](symbols), [Key Words](definitions)
-1. [R Function Guide](MTH107-RGuide.pdf){:target="_blank"} (or as [PPT](MTH107-RGuide.pptx))
-1. [Hypothesis Testing Fact Sheet](MTH107-HOGuide.pdf){:target="_blank"} (or as [PPT](MTH107-HOGuide.pptx))
-1. [11 Steps of Hypothesis Testing](../modules/11-steps)
-1. [FAQ](FAQ/)
 
-## Software Installation Links
-1. R -- [Windows](http://derekogle.com/IFAR/supplements/installations/InstallRWin.html){:target="_blank"} / [Mac OS](http://derekogle.com/IFAR/supplements/installations/InstallRMac.html){:target="_blank"} / [ChromeBook](FAQ/FAQs/ChromeBook){:target="_blank"}
-1. RStudio -- [Windows](http://derekogle.com/IFAR/supplements/installations/InstallRStudioWin.html){:target="_blank"} / [Mac OS](http://derekogle.com/IFAR/supplements/installations/InstallRStudioMac.html){:target="_blank"} / [ChromeBook](FAQ/FAQs/ChromeBook){:target="_blank"}
-1. [NCStats](https://github.com/droglenc/NCStats#installation){:target="_blank"}
-1. [Installing Other Packages](http://derekogle.com/IFAR/supplements/installations/InstallPackagesRStudio.html){:target="_blank"} [*You will only need to follow these directions if there was an error when installing NCStats in the previous bullet*]
+
+## Northland College -- Specific Resources
+1. [Clubs and Organizations](https://www.northland.edu/campus-life/get-involved/){:target="_blank"}
+1. [Academic Accommodations](https://www.northland.edu/campus-life/services/accommodations/){:target="_blank"}
+1. [Diversity and Inclusion Resources](https://www.northland.edu/campus-life/diversity-inclusion/){:target="_blank"}
+1. [Recreational Gear Rental](https://www.northland.edu/campus-life/bicycles-and-gear/){:target="_blank"}

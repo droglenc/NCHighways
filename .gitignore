@@ -2,7 +2,7 @@
 Year_Specific/
 
 ## Old administrative stuff that does not need to be in the repo
-resources/zzzOld/
+zzzMaterials/
 
 ## R project info
 .Rproj.user

@@ -1,0 +1,48 @@
+---
+title: "Charting Your Own Highway"
+author: ""
+date: ""
+output: pdf_document
+---
+
+## Lesson Plan
+1. Welcome and Introductions (myself and TA) [**5 mins**]
+1. Name game I [**30 mins**]
+    * Pair students (assign students a number, find person that sums to one more than the last number)
+    * Students have one minute to interview the other
+    * Students will report back to the group what they learned about the other
+1. Syllabus, webpage, and expectations [**5 mins**]
+    *
+1. "How College Differs from High School" Activity [**25 mins**]
+    * Hand out tables, ask students to examine
+    * Form seven groups of 2 or 3 each (count to 7, get together by number)
+    * Assign each group a section (two groups will get "Instructors", one should focus on first 6, other on last 5)
+    * Ask them to read each couplet and discuss which ones surprised them the most, which ones seems most difficult to adjust to, which ones (if any) they don't think will really happen, and any others they care to comment on. And why. Give 5-7 minutes.
+    * Ask each group to report back to the group when finished.
+1. "Goals and Expectations" worksheet [**20 mins**]
+    * Briefly Introduce the concept of articulating one's expectations and setting goals.
+    * Ask students to complete worksheet to be handed in.
+1. "Concerns in a Hat" Activity [**30 mins**]
+    * Give each student two pieces of paper and ask them to articulate a concern that they have about getting started in college. Ask them to be honest and clear, but to write it in such a way that they cannot be identified.
+    * Ask students to put papers into a "hat". Shake up the hat.
+    * Give each student two of the pieces of paper and ask them to read one of the concerns and, possibly, articulate what the person is saying.
+    * Repeat for the other concern.
+    * Discuss common threads in the concerns.
+1. Announce Everbody Party Assignment and preparation for next module [**2 mins**]
+1. Name Game II
+    * Nobody can leave until I say everybody's name ... when stuck, others can give me hints, but not the person I am stuck on.
+    * OR *Time Permitting*
+      * Two groups of 9 (with me and TA in opposite groups) ... put odds and evens together from first name game.
+      * First person says their name with a descriptor with the same first letter as their name and an identifying action ("I am Diving Derek")
+      * Person to their left does the same and repeats all people before them
+      * If broken start over, but person that broke goes first.
+      * [Time permitting] Count off numbers in each group, put the odds together to form one group and the evens to form another.
+
+----
+
+## Resources for Name Games, Ice-Breakers, Team-Builders
+
+* http://www.ultimatecampresource.com/site/camp-activities/
+* https://www.icebreakers.ws/
+* http://www.wilderdom.com/games/FreeTeamBuildingActivities.html
+

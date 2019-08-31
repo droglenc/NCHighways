@@ -13,7 +13,7 @@ title: Learning Modules
 <tr><th>3-Oct</th><td><a href="Adulting">Adulting 101</a></td></tr>
 <tr><th>10-Oct</th><td><a href="Diversity">Differences That Make A Difference</a></td></tr>
 <tr><th>17-Oct</th><td><a href="Careers">What Do You Want To Be When You Grow Up?</a></td></tr>
-<tr><th>24-Oct</th><td><a href="Pahways">Northwoods Pathways</a></td></tr>
+<tr><th>24-Oct</th><td><a href="Pathways">Northwoods Pathways</a></td></tr>
 <tr><th>31-Oct</th><td><a href="CriticalThinking">Everything Is Not As It Seems</a></td></tr>
 <tr><th>7-Nov</th><td><a href="NCHistory">Northland Through The Ages</a></td></tr>
 <tr><th>14-Nov</th><td><a href="Finances">Change In My Pocket</a></td></tr>

@@ -14,12 +14,15 @@ css: /css/modules.css
     </div>
     <div id="ILOs" class="panel-collapse collapse">
       <div class="panel-body">
-XXX
+<p>Becoming a college student is a profound accomplishment. It required hard work, dedication, and your commitment to finish high school, select a college, apply, enroll, and show up on day one. You should be very proud of getting this far! However, you also need to understand the many ways in which a college education differs from high school. College demands a higher level of independence, discipline, organization, cognition, and application of learning. In particular, a liberal arts education will require you to think critically and develop an interdisciplinary approach that integrates information from a variety of subject areas into a more comprehensive way of understanding the world. The purpose of this unit is to lay the groundwork for college-level academic expectations to help you acclimate to the experience of higher education and to be successful in your academic endeavors.</p>
 
 <p>After completing this module, you should be able to ...</p>
 
 <ol>
-  <li>XXX.</li>
+  <li>Describe some differences between high school and college academic work.</li>
+  <li>Define college-level academic expectations.</li>
+  <li>Define academic integrity, both in practice and as outlined in the student code of conduct.</li>
+  <li>Describe what it means to be an active and engaged learner.</li>
 </ol>
       </div>
     </div>
@@ -41,15 +44,15 @@ We will do the following during class.
 
 * Activities to get to know each other.
 * Discuss [syllabus](../../Syllabus-Current) and class expectations.
-* Complete the ["Why Are You In College" worksheet](Why Are You In College (Ogle).docx). **Due this class period.**
-* Complete the ["How College Is Different"](How is College Different from High School (Ogle).docx) activity.
-* Complete the ["What Do You Expect At College" worksheet](What Do You Expect at College (Ogle).docx). **Due this class period.**
-* Perform "Fears in hat" activity.
+* Complete the "How College Is Different" activity ([handout](How is College Different from High School (Ogle).docx)).
+* Complete the "Goals and Expectations" [worksheet](Goals and Expectations (Ogle).docx). **Due this class period.**
+* Perform "Concerns in A Hat" activity.
 
 ## After Class Assignment
 
 You should complete the following to hand in at the beginning of the next class period.
 
 * Attend the "Clubs and Organizations Fair" at the "Everybody Party" ([details here](https://www.northland.edu/event/everybody-party/)). Identify two clubs or organizations that you might be interested in and briefly describe how you could get involved with those groups.
+* Do class preparation for [next module](GetInvolved).
 
 ----

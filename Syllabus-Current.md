@@ -6,20 +6,17 @@ css: /css/syllabus.css
 ---
 
 <figure>
-  <img src="img/words.jpg" height="60%" alt="College Word Map">
+  <img src="img/words.jpg" alt="College Word Map" height="200">
   <figcaption><span style="font-size:50%;">From <a href="http://dubeat.com/2017/11/my-first-semester-in-du-as-a-fresher/" target="_blank">DU Beat</a></span></figcaption>
 </figure>
 
 ----
 
-## Syllabus Contents
+## Contents
 
 * [Course Description, Goals, and Learning Outcomes](#course-description-goals-and-learning-outcomes)
 * [Instructors](#instructors)
-
-
-[Accommodations](#accommodations)
-* [Grading](#grading) -- [Preparation Checks](#preparation-checks), [Homework](#homework), [Participation](#participation), [Quizzes](#quizzes), [Extra Credit](#extra-credit), [Overall Grade](#overall-grade)
+* [Grading](#grading) -- [Engagement](#engagement), [Assignments](#in--class-and-out--of--class-assignments), [Final Reflection](#final-reflection), [Accommodations](#accommodations), [Incomplete Grades](#incomplete-grades)
 * [Classroom Conduct and Academic Integrity](#classroom-conduct-and-academic-integrity)
 
 
@@ -57,18 +54,11 @@ In this class, you will have the opportunity to:
 I am committed to your doing well in this course and more broadly at Northland College. As such, I see it as my responsibility to help you as much as possible both in and out of the designated class period. Thus, you may call (715-682-1300), e-mail (<a href="mailto:dogle@northland.edu">dogle@northland.edu</a>)[^email], or visit me in my office (CSE228) for help. I will make every effort to be available during office hours from 1-3p on Monday, Wednesday, and Friday. I will also be available any time that my door is open. Finally, you may also send me <a href="https://www.surveymonkey.com/r/KC87PJW" target="_blank">anonymous feedback, suggestions, or questions</a>. Please don't hesitate to see or contact me if you have any questions regarding this course.
 
 <img class="img-right" src="img/DerekOgle1.jpg">
-In addition, XXX will serve as a teaching assistant for this course. XXX is also committed to you doing well in this course and your other pursuits at Northland. Please feel free to e-mail XXX at XXX@northland.edu if you need anything from XXX.
-
-
-
-
-### Accommodations
-I want to create an inclusive and accessible learning environment for those of you that have a condition (e.g., attention, learning, vision, hearing, mental, physical, or other health-related concern) that may require special accommodations. *If you have already established accommodations* with the Office of Accessibility Resources (OAR), please communicate your approved accommodations to me as soon as possible so that we can discuss your needs in this course. If you have a condition that requires accommodations but *you have not yet established services* through OAR, then you should contact Jennifer Newago as soon as possible (Ponzio 230, x1387, or <a href="mailto:accomodations@northland.edu">accomodations@northland.edu</a>). It is the policy and practice of Northland College to create inclusive and accessible learning environments consistent with federal and state law. <a href="https://my.northland.edu/life/be-healthy/accommodations/">More information is available here.</a>
+In addition, XXX will serve as a teaching assistant for this course. XXX is YYY. XXX is also committed to you doing well in this course and your other pursuits at Northland, so please feel free to e-mail them at XXX@northland.edu if you have questions or need help.
 
 ----
 
 ## Grading
-### Overall Grade
 <img class="img-right" src="img/grading.jpg">
 Your grade in this course will be based on a combination of your engagement during class, reflections on in-class activities, outside-of-class writing assignments, and a final reflection paper according to the following weights:
 
@@ -81,6 +71,7 @@ Your grade in this course will be based on a combination of your engagement duri
 </tr>
 <tr><th>Weight</th>
 <th>35%</th><th>30%</th><th>20%</th><th>15%</th></tr>
+</table>
 
 Your letter grade will be assigned from your overall percentage (rounded to a whole number) and the table below.
 
@@ -142,7 +133,10 @@ Out-of-class assignments should be typed and should either be printed to hand in
 ### Final Reflection
 
 
-#### Note About Incomplete Grades
+### Accommodations
+I want to create an inclusive and accessible learning environment for those of you that have a condition (e.g., attention, learning, vision, hearing, mental, physical, or other health-related concern) that may require special accommodations. *If you have already established accommodations* with the Office of Accessibility Resources (OAR), please communicate your approved accommodations to me as soon as possible so that we can discuss your needs in this course. If you have a condition that requires accommodations but *you have not yet established services* through OAR, then you should contact Jennifer Newago as soon as possible (Ponzio 230, x1387, or <a href="mailto:accomodations@northland.edu">accomodations@northland.edu</a>). It is the policy and practice of Northland College to create inclusive and accessible learning environments consistent with federal and state law. <a href="https://my.northland.edu/life/be-healthy/accommodations/">More information is available here.</a>
+
+### Incomplete Grades
 An incomplete grade will be given ONLY under extreme circumstances beyond your control, such as a major illness, and will ONLY be given if you have successfully completed the entire course except for the final exam. This is in accordance with [Northland College policy](https://my.northland.edu/student-policies/academic-policies/#grades){:target="_blank"} (scroll down to "Incomplete Grades").
 
 ----

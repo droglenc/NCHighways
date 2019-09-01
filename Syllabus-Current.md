@@ -6,13 +6,11 @@ css: /css/syllabus.css
 ---
 
 <figure>
-  <img src="../img/words.jpg" alt="College Word Map">
+  <img src="img/words.jpg" alt="College Word Map">
   <figcaption><span style="font-size:50%;">From <a href="http://dubeat.com/2017/11/my-first-semester-in-du-as-a-fresher/" target="_blank">DU Beat</a></span></figcaption>
 </figure>
 
 <p style="margin-bottom:2cm;"></p>
-
-</div>
 
 ----
 
@@ -43,7 +41,7 @@ The goals for Northland Highways are to:
 1. Cultivate your ability to think critically about academic content in order to be a productive scholar in your academic pursuits.
 1. Teach you to value diverse experiences and perspectives, and to voice your own ideas in diverse contexts.
 
-<img class="img-right" src="../img/outcomes.jpg" alt="Outcomes">
+<img class="img-right" src="img/outcomes.jpg" alt="Outcomes">
 
 In this class, you will have the opportunity to:
 
@@ -57,10 +55,10 @@ In this class, you will have the opportunity to:
 
 ## Instructors
 
-<img class="img-right" src="../img/DerekOgle1.jpg">
+<img class="img-right" src="img/DerekOgle1.jpg">
 I am committed to your doing well in this course and more broadly at Northland College. As such, I see it as my responsibility to help you as much as possible both in and out of the designated class period. Thus, you may call (715-682-1300), e-mail (<a href="mailto:dogle@northland.edu">dogle@northland.edu</a>)[^email], or visit me in my office (CSE228) for help. I will make every effort to be available during office hours from 1-3p on Monday, Wednesday, and Friday. I will also be available any time that my door is open. Finally, you may also send me <a href="https://www.surveymonkey.com/r/KC87PJW" target="_blank">anonymous feedback, suggestions, or questions</a>. Please don't hesitate to see or contact me if you have any questions regarding this course.
 
-<img class="img-right" src="../img/DerekOgle1.jpg">
+<img class="img-right" src="img/DerekOgle1.jpg">
 In addition, XXX will serve as a teaching assistant for this course. XXX is also committed to you doing well in this course and your other pursuits at Northland. Please feel free to e-mail XXX at XXX@northland.edu if you need anything from XXX.
 
 
@@ -73,7 +71,7 @@ I want to create an inclusive and accessible learning environment for those of y
 
 ## Grading
 ### Overall Grade
-<img class="img-right" src="../img/grading.jpg">
+<img class="img-right" src="img/grading.jpg">
 Your grade in this course will be based on a combination of your engagement during class, reflections on in-class activities, outside-of-class writing assignments, and a final reflection paper according to the following weights:
 
 <table class="grader" width="90%">
@@ -98,7 +96,7 @@ Your letter grade will be assigned from your overall percentage (rounded to a wh
 
 ### Engagement
 
-<img class="img-right" src="../img/participation.jpg" alt="Participation">
+<img class="img-right" src="img/participation.jpg" alt="Participation">
 This class is taught in an active learning format and, thus, our time during class is short and precious. The following behaviors are indicative of an active fully participating student:
 
 - Attended the entire class period (including showing up on time).
@@ -121,13 +119,13 @@ I will assess your level of participation at the end of each class period with t
   </table>
 </div>
 
-<img class="img-right" src="../img/studying.jpg" alt="Studying Hours">
+<img class="img-right" src="img/studying.jpg" alt="Studying Hours">
 
 As a general rule-of-thumb[^2], you are expected to spend 2-3 hours of time outside of class for each hour in class. However, this course is designed to minimize your out-of-class work. Thus, you should plan on spending approximately 2 hours per week outside of class preparing for each module (i.e., doing the assigned readings, completing out-of-class assignments). **The work required for this course can be completed within this expected amount of time, if that time is without distraction**. If you feel that you are spending an inordinate amount of time prepating for this course please see me or the TA.
 
 ### In-Class and Out-of-Class Assignments
 
-<img class="img-right" src="../img/homework.png">
+<img class="img-right" src="img/homework.png">
 In-class reflections and out-of-class assignments will largely be graded based on "completeness" according to the following rubric.
 
 <div class="container-fluid">
@@ -153,7 +151,7 @@ An incomplete grade will be given ONLY under extreme circumstances beyond your c
 
 ## Classroom Conduct and Academic Integrity
 
-<img class="img-right" src="../img/cell-cheat.jpg" alt="Conduct and Integrity">
+<img class="img-right" src="img/cell-cheat.jpg" alt="Conduct and Integrity">
 
 My intent is to create a classroom environment where every student feels comfortable and safe to explore, learn and grow. One part of this environment is your conduct within it. My expectations of you are that you will fully participate in the course (see above) and be respectful of all others in the class. At a minimum, I expect you to adhere to the following behaviors:
 

@@ -43,7 +43,7 @@ In addition, XXX will serve as a teaching assistant for this course. XXX is YYY.
 ----
 
 ## Grading
-Your grade in this course will be based on your in-class engagement, in-class assignments, outside-of-class assignments, and a final reflection paper which weill be combined according to the following weights:
+Your grade in this course will be based on your in-class engagement, in-class assignments, outside-of-class assignments, and a final reflection paper which will be combined according to the following weights:
 
 <table class="tg" width="90%">
 <tr><td width="16%">Item</td>
@@ -56,7 +56,7 @@ Your grade in this course will be based on your in-class engagement, in-class as
 <td>35%</td><td>30%</td><td>20%</td><td>15%</td></tr>
 </table>
 
-Your letter grade will be assigned from your overall percentage (rounded to a whole number) and the table below.
+Your letter grade will be assigned from your overall percentage (rounded to a whole number) and the table below. However, note the [attendance policy](#attendance) below.
 
 <table class="tg">
   <tr><td></td><td>A 92-100</td><td>A- 90-91</td></tr>
@@ -93,7 +93,7 @@ I will assess your engagement at the end of each class period with the following
 
 <img class="img-right" src="img/studying.jpg" alt="Studying Hours">
 
-You should plan on spending approximately 2 hours per week of time without distraction outside of class preparing for each module (i.e., doing the assigned readings, completing out-of-class assignments).[^time] **The work required for this course can be completed within this expected amount of time**. If you feel that you are spending an inordinate amount of time prepating for this course please see me or the TA.
+You should plan on spending approximately 2 hours per week of time without distraction outside of class preparing for each module (i.e., doing the assigned readings, completing out-of-class assignments).[^time] **The work required for this course can be completed within this expected amount of time**. If you feel that you are spending an inordinate amount of time preparing for this course please see me or the TA.
 
 <br>
 
@@ -125,17 +125,17 @@ Out-of-class assignments should be typed and should either be printed to hand in
 The goals for this course are largely met through class attendance. Thus, the following strict attendance policy is used for this course.
 
 * Two unexcused absences will result in a grade no higher than a C.
-* Three or more unexcused absences will result in a failing grade
-* Excused absences will be treated differently at my discretion. In general, four or more absences (either all excused or excused combined with unexcused) will put you in jeapordy of failing the course.
-* Excuded absences may include illness, traveling for participation in an athletic event or other school-sponsored activity, or family emergency. Documentation from a coach, doctor, or other professional may be required in order for an absence to be excused.
+* Three or more unexcused absences will result in a failing grade.
+* Excused absences will be treated differently at my discretion. In general, four or more absences (either all excused or excused combined with unexcused) will put you in jeopardy of failing the course.
+* Excused absences may include illness, traveling for participation in an athletic event or other school-sponsored activity, or family emergency. Documentation from a coach, doctor, or other professional may be required in order for an absence to be excused.
 
-Consider the following examples of this attencance policy.
+Consider the following examples of this attendance policy.
 
 * Abigail missed the third class period because her alarm did not go off. Her grade is not affected by this absence except that she missed points for in-class engagement and the in-class assignment.
-* Benny missed two class periods, one because he left town for a concert in the Twin Cities and one because he decided to "take the day off." These are unexcused absences, so Benny can earn no higher than a "C" for the course. In addition, he mised the in-class engagement and the in-class assignments for both days. Benny is very likely to earn a "D."
+* Benny missed two class periods, one because he left town for a concert in the Twin Cities and one because he decided to "take the day off." These are unexcused absences, so Benny can earn no higher than a "C" for the course. In addition, he missed the in-class engagement and the in-class assignments for both days. Benny is very likely to earn a "D."
 * Claudette missed three class periods because she was traveling with the Women's Soccer team on two Thursdays and was in "concussion protocol" on another Thursday. Each one of these absences is considered excused (she had a note from her doctor about the concussion) and Claudette made up the work for each missed day. Thus, her grade is not affected by these absences.
-* Davide missed three class periods -- one because he was traveling with the Cross Country team to a meet, one because he decided to sleep in on the day after a meet, and one because he had a friend from home visiting. The first absence is considered excused (and Davide made up the work), but the other two are considered unexcused. Thus, this is similar to Benny's case and Davide can earn no higher than a "C" for the course but is in danger of earning a "D" because of the work that he missed.
-* Elinor missed three consecutive weeks because she had mono, came to class for one week, and then missed the two weeks after Thanksgiving as her health declined again. Elinor had a note from her doctor explaining her illness and why she could not attend class. Elinor was unable to make up any of the work that she missed because of her illness. Elinor failed the course as she missed more than a third of the coursework. [*Note that in an instance like this, I would work with Elinor to find a less punitive administrative decision -- possibly a late withdrawl from the course.*]
+* Davide missed three class periods -- one because he was traveling with the Cross Country team to a meet, one because he decided to sleep in on the day after a meet, and one because he had a friend from home visiting. The first absence is considered excused, but the other two are considered unexcused. Thus, this is similar to Benny's case and Davide can earn no higher than a "C" for the course but is in danger of earning a "D" because of the work that he missed.
+* Elinor missed three consecutive weeks because she had mono, came to class for one week, and then missed the two weeks after Thanksgiving as her health declined again. Elinor had a note from her doctor explaining her illness and why she could not attend class. Elinor was unable to make up any of the work that she missed because of her illness. Elinor failed the course as she missed more than a third of the coursework. [*Note that in an instance like this, I would work with Elinor to find a less punitive administrative decision -- possibly a late withdrawal from the course. However, she would still be required to take the course again.*]
 
 <br>
 

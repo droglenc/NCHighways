@@ -6,10 +6,8 @@ css: /css/syllabus.css
 ---
 
 <div class="main-explain-area jumbotron">
-  <p align="center">IDS111 Northland Highways<br>Dr. Derek Ogle<br><br></p>
+  <p align="center">IDS111 Northland Highways<br> <br>Syllabus<br><br></p>
 </div>
-
-## Contents
 
 * [Course Description, Goals, and Learning Outcomes](#course-description-goals-and-learning-outcomes)
 * [Instructors](#instructors)
@@ -21,7 +19,9 @@ css: /css/syllabus.css
 
 ## Course Description, Goals, and Learning Outcomes
 
-Northland Highways helps you build success in your academic, social, and personal pursuits during your first college semester and beyond. Through this course, you will build connections with peers and professionals on campus, learn college-level academic expectations, develop a sense of personal and social responsibility, and cultivate a sense of place on campus, in Ashland, and beyond.
+<img class="img-right" src="img/goals.jpg" alt="Goals">
+
+Northland Highways helps you build success in your academic, social, and personal pursuits during your first college semester at Northland and beyond. Through this course, you will build connections with peers and professionals on campus, learn college-level academic expectations, develop a sense of personal and social responsibility, and cultivate a sense of place on campus, in Ashland, and beyond.
 
 The goals for Northland Highways are to:
 
@@ -32,16 +32,6 @@ The goals for Northland Highways are to:
 1. Build your competence and confidence in the use of self-reflection as a tool for growth in your personal, social, and academic realms.
 1. Cultivate your ability to think critically about academic content in order to be a productive scholar in your academic pursuits.
 1. Teach you to value diverse experiences and perspectives, and to voice your own ideas in diverse contexts.
-
-<img class="img-right" src="img/outcomes.jpg" alt="Outcomes">
-
-In this class, you will have the opportunity to:
-
-1. Identify students, staff, and faculty that you feel comfortable approaching for help with problems or issues.
-1. Identify campus resources that can help you be successful in your academic, social, and personal endeavors.
-1. Actively explore campus and the surrounding area, and reflect on the experience of living here.
-1. Demonstrate critical thinking skills to develop ideas that are informed and insightful. 
-1. Participate responsibly in small-group or seminar-style classroom discussions with people holding different perspectives.
 
 ----
 

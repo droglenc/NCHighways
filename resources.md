@@ -1,7 +1,11 @@
 ---
 layout: page
-title: Resources
+title: 
 ---
+
+<div class="main-explain-area jumbotron">
+  <p align="center">IDS111 Northland Highways<br> <br>Resources<br><br></p>
+</div>
 
 ## Northland College -- General
 1. [Northland Mission](https://www.northland.edu/about/#mission-vision){:target="_blank"}

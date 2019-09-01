@@ -45,7 +45,7 @@ In addition, XXX will serve as a teaching assistant for this course. XXX is YYY.
 ## Grading
 Your grade in this course will be based on your in-class engagement, in-class assignments, outside-of-class assignments, and a final reflection paper which weill be combined according to the following weights:
 
-<table class="grader" width="90%">
+<table class="tg" width="90%">
 <tr><th width="16%">Item</th>
 <td width="21%">In-class<br>Engagement</td>
 <td width="21%">In-Class<br>Reflections</td>

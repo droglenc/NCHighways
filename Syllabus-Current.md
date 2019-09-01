@@ -18,9 +18,7 @@ css: /css/syllabus.css
 ----
 
 ## Course Description, Goals, and Learning Outcomes
-
 <img class="img-right" src="img/goals.jpg" alt="Goals">
-
 Northland Highways helps you build success in your academic, social, and personal pursuits during your first college semester at Northland and beyond. Through this course, you will build connections with peers and professionals on campus, learn college-level academic expectations, develop a sense of personal and social responsibility, and cultivate a sense of place on campus, in Ashland, and beyond.
 
 The goals for Northland Highways are to:
@@ -36,7 +34,6 @@ The goals for Northland Highways are to:
 ----
 
 ## Instructors
-
 <img class="img-right" src="img/DerekOgle1.jpg">
 I am committed to your doing well in this course and more broadly at Northland College. As such, I see it as my responsibility to help you as much as possible both in and out of the designated class period. Thus, you may call (715-682-1300), e-mail (<a href="mailto:dogle@northland.edu">dogle@northland.edu</a>)[^email], or visit me in my office (CSE228) for help. I will make every effort to be available during office hours from 1-3p on Monday, Wednesday, and Friday. I am also available any time that my door is open (which is often). Finally, you may send me <a href="https://www.surveymonkey.com/r/BKYXG2V" target="_blank">anonymous feedback, suggestions, or questions</a>. Please don't hesitate to see or contact me if you have any questions, concerns, or issues.
 
@@ -46,18 +43,17 @@ In addition, XXX will serve as a teaching assistant for this course. XXX is YYY.
 ----
 
 ## Grading
-<img class="img-right" src="img/grading.jpg">
-Your grade in this course will be based on a combination of your engagement during class, reflections on in-class activities, outside-of-class writing assignments, and a final reflection paper according to the following weights:
+Your grade in this course will be based on your in-class engagement, in-class assignments, outside-of-class assignments, and a final reflection paper which weill be combined according to the following weights:
 
 <table class="grader" width="90%">
 <tr><th width="16%">Item</th>
-<th width="21%">In-class<br>Engagement</th>
-<th width="21%">In-Class<br>Reflections</th>
-<th width="21%">Out-of-Class<br>Assignments</th>
-<th width="21%">Final<br>Reflection</th>
+<td width="21%">In-class<br>Engagement</td>
+<td width="21%">In-Class<br>Reflections</td>
+<td width="21%">Out-of-Class<br>Assignments</td>
+<td width="21%">Final<br>Reflection</td>
 </tr>
 <tr><th>Weight</th>
-<th>35%</th><th>30%</th><th>20%</th><th>15%</th></tr>
+<td>35%</td><td>30%</td><td>20%</td><td>15%</td></tr>
 </table>
 
 Your letter grade will be assigned from your overall percentage (rounded to a whole number) and the table below.
@@ -69,20 +65,20 @@ Your letter grade will be assigned from your overall percentage (rounded to a wh
   <tr><td>D+ 67-69</td><td>D  60-66</td><td>F   0-59</td></tr>
 </table>
 
+<br>
 
 ### Engagement
-
 <img class="img-right" src="img/participation.jpg" alt="Participation">
-This class is taught in an active learning format and, thus, our time during class is short and precious. The following behaviors are indicative of an active fully participating student:
+This course is taught in an active learning format and, thus, our time during class is short and precious. The following behaviors are indicative of a fully participating student:
 
-- Attended the entire class period (including showing up on time).
+- Attended entire class period (including being on time).
 - Came to class having fully completed the required preparation materials.
 - Fully participated in all in-class activities.
-- Paid attention during discussions and asked questions as pertinent.
+- Paid attention during discussions and asked pertinent questions.
 - Collaboratively worked with others when appropriate.
 - Followed the [class conduct guidelines](#classroom-conduct-and-academic-integrity).
 
-I will assess your level of participation at the end of each class period with the following rubric.
+I will assess your engagement at the end of each class period with the following rubric.
 
 <div class="container-fluid">
   <table class="table table-bordered">
@@ -97,11 +93,11 @@ I will assess your level of participation at the end of each class period with t
 
 <img class="img-right" src="img/studying.jpg" alt="Studying Hours">
 
-As a general rule-of-thumb[^2], you are expected to spend 2-3 hours of time outside of class for each hour in class. However, this course is designed to minimize your out-of-class work. Thus, you should plan on spending approximately 2 hours per week outside of class preparing for each module (i.e., doing the assigned readings, completing out-of-class assignments). **The work required for this course can be completed within this expected amount of time, if that time is without distraction**. If you feel that you are spending an inordinate amount of time prepating for this course please see me or the TA.
+You should plan on spending approximately 2 hours per week of time without distraction outside of class preparing for each module (i.e., doing the assigned readings, completing out-of-class assignments).[^time] **The work required for this course can be completed within this expected amount of time**. If you feel that you are spending an inordinate amount of time prepating for this course please see me or the TA.
+
+<br>
 
 ### In-Class and Out-of-Class Assignments
-
-<img class="img-right" src="img/homework.png">
 In-class reflections and out-of-class assignments will largely be graded based on "completeness" according to the following rubric.
 
 <div class="container-fluid">
@@ -149,6 +145,4 @@ Finally, note that the [College's Academic Integrity Statement & Policy](https:/
 
 [^email]: While I am pretty open-minded and not much of a stickler when it comes to e-mail etiquette, some professors are. And it is always better to send an appropriate rather than an inappropriate e-mail. [Here](https://www.scribendi.com/advice/how_to_email_a_professor.en.html) and [here](https://www.insidehighered.com/views/2015/04/16/advice-students-so-they-dont-sound-silly-emails-essay) are some good suggestions for e-mailing professors.
 
-[^1]: I believe the research (e.g., [here](http://www.medicaldaily.com/why-using-pen-and-paper-not-laptops-boosts-memory-writing-notes-helps-recall-concepts-ability-268770){:target="_blank"}, [here](http://www.pbs.org/wgbh/nova/next/body/taking-notes-by-hand-could-improve-memory-wt/){:target="_blank"}, and [here](http://www.lifehack.org/articles/featured/writing-and-remembering-why-we-remember-what-we-write.html){:target="_blank"}) that suggests that you are more likely to remember concepts if you hand-write those concepts down, rather than copy-and-pasting or typing the text.
-
-[^2]: General advice for how much time should be spent outside of class for each hour inside of class can be found, among many, [here](https://www.collegeparentcentral.com/2010/02/is-your-college-student-investing-enough-time-studying/){:target="_blank"}, [here](http://classroom.synonym.com/ratio-studying-class-time-college-1075.html){:target="_blank"}, [here](https://www.usu.edu/asc/studysmart/pdf/estimating_study_hours.pdf){:target="_blank"}, and [here](http://collegelife.about.com/od/academiclife/f/How-Much-Time-Should-I-Spend-Studying-In-College.htm){:target="_blank"}.
+[^time]: As a general rule-of-thumb, you are expected to spend 2-3 hours of time outside of class for each hour in class. General advice for how much time should be spent outside of class for each hour inside of class can be found, among many, [here](https://www.collegeparentcentral.com/2010/02/is-your-college-student-investing-enough-time-studying/){:target="_blank"}, [here](http://classroom.synonym.com/ratio-studying-class-time-college-1075.html){:target="_blank"}, [here](https://www.usu.edu/asc/studysmart/pdf/estimating_study_hours.pdf){:target="_blank"}, and [here](http://collegelife.about.com/od/academiclife/f/How-Much-Time-Should-I-Spend-Studying-In-College.htm){:target="_blank"}.

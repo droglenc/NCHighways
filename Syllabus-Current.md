@@ -6,11 +6,9 @@ css: /css/syllabus.css
 ---
 
 <figure>
-  <img src="img/words.jpg" alt="College Word Map">
+  <img src="img/words.jpg" height="60%" alt="College Word Map">
   <figcaption><span style="font-size:50%;">From <a href="http://dubeat.com/2017/11/my-first-semester-in-du-as-a-fresher/" target="_blank">DU Beat</a></span></figcaption>
 </figure>
-
-<p style="margin-bottom:2cm;"></p>
 
 ----
 

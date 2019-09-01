@@ -5,12 +5,9 @@ subtitle:
 css: /css/syllabus.css
 ---
 
-<figure>
-  <img src="img/words.jpg" alt="College Word Map" height="200">
-  <figcaption><span style="font-size:50%;">From <a href="http://dubeat.com/2017/11/my-first-semester-in-du-as-a-fresher/" target="_blank">DU Beat</a></span></figcaption>
-</figure>
-
-----
+<div class="main-explain-area jumbotron">
+  <p align="center">IDS111 Northland Highways<br>Dr. Derek Ogle<br><br></p>
+</div>
 
 ## Contents
 

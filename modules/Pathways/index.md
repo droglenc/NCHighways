@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Northwoods Pathways
-subtitle: "Sense of Place" amidst Local Landscapes
+subtitle: "'Sense of Place' amidst Local Landscapes"
 css: /css/modules.css
 ---
 

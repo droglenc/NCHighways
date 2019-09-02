@@ -9,7 +9,7 @@ css: /css/syllabus.css
   <p align="center">IDS111 Northland Highways<br> <br>Syllabus<br><br></p>
 </div>
 
-* [Course Description, Goals, and Learning Outcomes](#course-description-goals-and-learning-outcomes)
+* [Course Description and Goals](#course-description-and-goals)
 * [Instructors](#instructors)
 * [Grading](#grading) -- [Engagement](#engagement), [Assignments](#in--class-and-out--of--class-assignments), [Final Reflection](#final-reflection), [Attendance](#attendance), [Accommodations](#accommodations), [Incomplete Grades](#incomplete-grades)
 * [Classroom Conduct and Academic Integrity](#classroom-conduct-and-academic-integrity)
@@ -17,7 +17,7 @@ css: /css/syllabus.css
 
 ----
 
-## Course Description, Goals, and Learning Outcomes
+## Course Description and Goals
 <img class="img-right" src="img/goals.jpg" alt="Goals">
 Northland Highways helps you build success in your academic, social, and personal pursuits during your first college semester at Northland and beyond. Through this course, you will build connections with peers and professionals on campus, learn college-level academic expectations, develop a sense of personal and social responsibility, and cultivate a sense of place on campus, in Ashland, and beyond.
 

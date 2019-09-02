@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Sustainability
-subtitle: Beyond the Buzzword
+title: Last Day
+subtitle: Reflecting on the Semester
 css: /css/modules.css
 ---
 

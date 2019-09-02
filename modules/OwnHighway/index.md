@@ -37,6 +37,7 @@ Please prepare for class by doing the following PRIOR to class.
 
 * Read [Chapter 1](College Rules_Chapter 1.pdf) in *College Rules* (pwd is "Highways").
 * Read [Chapter 14](College Rules_Chapter 14.pdf) in *College Rules* (pwd is "Highways").
+* Read the course [syllabus](../../Syllabus-Current).
 
 ## Class Work
 

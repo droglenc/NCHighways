@@ -17,7 +17,7 @@ output: pdf_document
     * Hand out tables, ask students to examine
     * Form seven groups of 2 or 3 each (count to 7, get together by number)
     * Assign each group a section (two groups will get "Instructors", one should focus on first 6, other on last 5)
-    * Ask them to read each couplet and discuss which ones surprised them the most, which ones seems most difficult to adjust to, which ones (if any) they don't think will really happen, and any others they care to comment on. And why. Give 5-7 minutes.
+    * Ask them to read each couplet and discuss which ones surprised them the most, which ones seem most difficult to adjust to, which ones (if any) they don't think will really happen, any others they care to comment on, and any others that they might add. And why. Give 5-7 minutes.
     * Ask each group to report back to the group when finished.
 1. "Goals and Expectations" worksheet [**20 mins**]
     * Briefly Introduce the concept of articulating one's expectations and setting goals.

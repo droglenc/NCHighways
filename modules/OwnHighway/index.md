@@ -53,6 +53,6 @@ We will do the following during class.
 You should complete the following to hand in at the beginning of the next class period.
 
 * Attend the "Clubs and Organizations Fair" at the "Everybody Party" ([details here](https://www.northland.edu/event/everybody-party/){:target="_blank"}). Identify two clubs or organizations that you might be interested in and briefly describe how you could get involved with those groups.
-* Do class preparation for [next module](GetInvolved).
+* Do class preparation for [next module](../GetInvolved).
 
 ----

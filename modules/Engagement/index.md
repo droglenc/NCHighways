@@ -47,6 +47,6 @@ We will do the following during class.
 You should complete the following to hand in at the beginning of the next class period.
 
 * 
-* Do class preparation for [next module](Sustainability).
+* Do class preparation for [next module](../Sustainability).
 
 ----

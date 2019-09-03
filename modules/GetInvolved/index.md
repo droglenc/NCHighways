@@ -34,19 +34,25 @@ css: /css/modules.css
 
 Please prepare for class by doing the following PRIOR to class.
 
-* 
+* Read Chapter 2 in *College Rules*.
+* Read Chapter 5 in *College Rules*.
+* Reflect on your attendance at the "Clubs and Organizations Fair" of the "Everybody Party" ([details here](https://www.northland.edu/event/everybody-party/){:target="_blank"}) last Friday.
 
 ## Class Work
 
 We will do the following during class.
 
-* 
+* Get warmed up!
+* Complete the "College Instructors" [Worksheet](College Instructors (Ogle).docx)
+* "Importance of Community Participation" Discussion
+* XXX Speaks
+* Complete the "What is Your Plan for Getting Involved" [worksheet](What is your plan for getting involved (Ogle).docx).
 
 ## After Class Assignment
 
 You should complete the following to hand in at the beginning of the next class period.
 
-* 
+* Attend a campus or community event or activity and complete [this reflection](Campus Activity Attendance and Reflection (Ogle).docx). **Due on or before 3-Oct.**
 * Do class preparation for [next module](../Health).
 
 ----

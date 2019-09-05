@@ -38,7 +38,7 @@ The goals for Northland Highways are to:
 I am committed to your doing well in this course and more broadly at Northland College. As such, I see it as my responsibility to help you as much as possible both in and out of the designated class period. Thus, you may call (715-682-1300), e-mail (<a href="mailto:dogle@northland.edu">dogle@northland.edu</a>)[^email], or visit me in my office (CSE228) for help. I will make every effort to be available during office hours from 1-3p on Monday, Wednesday, and Friday. I am also available any time that my door is open (which is often). Finally, you may send me <a href="https://www.surveymonkey.com/r/BKYXG2V" target="_blank">anonymous feedback, suggestions, or questions</a>. Please don't hesitate to see or contact me if you have any questions, concerns, or issues.
 
 <img class="img-right" src="img/DerekOgle1.jpg">
-In addition, XXX will serve as a teaching assistant for this course. XXX is YYY. XXX is also committed to you doing well in this course and your other pursuits at Northland, so please feel free to e-mail them at XXX@northland.edu if you have questions or need help.
+In addition, Lauren Sloyer will serve as a teaching assistant for this course. Lauren is YYY. Lauren is also committed to you doing well in this course and your other pursuits at Northland, so please feel free to e-mail them at <a href="mailto:sloyel869@myemail.northland.edu">sloyel869@myemail.northland.edu</a> if you have questions or need help.
 
 ----
 

@@ -29,7 +29,7 @@ The goals for Northland Highways are to:
 1. Prepare you to be successful in your classes by familiarizing you with the structure, culture, and resources of Northland College.
 1. Build your competence and confidence in the use of self-reflection as a tool for growth in your personal, social, and academic realms.
 1. Cultivate your ability to think critically about academic content in order to be a productive scholar in your academic pursuits.
-1. Teach you to value diverse experiences and perspectives, and to voice your own ideas in diverse contexts.
+1. Help you value diverse experiences and perspectives, and to voice your own ideas in diverse contexts.
 
 ----
 
@@ -37,8 +37,8 @@ The goals for Northland Highways are to:
 <img class="img-right" src="img/DerekOgle1.jpg">
 I am committed to your doing well in this course and more broadly at Northland College. As such, I see it as my responsibility to help you as much as possible both in and out of the designated class period. Thus, you may call (715-682-1300), e-mail (<a href="mailto:dogle@northland.edu">dogle@northland.edu</a>)[^email], or visit me in my office (CSE228) for help. I will make every effort to be available during office hours from 1-3p on Monday, Wednesday, and Friday. I am also available any time that my door is open (which is often). Finally, you may send me <a href="https://www.surveymonkey.com/r/BKYXG2V" target="_blank">anonymous feedback, suggestions, or questions</a>. Please don't hesitate to see or contact me if you have any questions, concerns, or issues.
 
-<img class="img-right" src="img/DerekOgle1.jpg">
-In addition, Lauren Sloyer will serve as a teaching assistant for this course. Lauren is YYY. Lauren is also committed to you doing well in this course and your other pursuits at Northland, so please feel free to e-mail them at <a href="mailto:sloyel869@myemail.northland.edu">sloyel869@myemail.northland.edu</a> if you have questions or need help.
+<img class="img-right" src="img/Sloyer.jpg">
+In addition, Lauren Sloyer will serve as a teaching assistant for this course. Lauren is graduating with a Natural Resources Forestry degree in December of 2019. She is passionate about the Chequamegon Bay area and its community -- she has lead several Outdoor Orientation trips and loves to welcome new faces to the Northland campus. Lauren is also committed to you doing well in this course and your other pursuits at Northland, so please feel free to e-mail her at <a href="mailto:sloyel869@myemail.northland.edu">sloyel869@myemail.northland.edu</a> if you have questions or need help.
 
 ----
 
@@ -113,12 +113,12 @@ In-class reflections and out-of-class assignments will largely be graded based o
 
 In-class assignments can only be made-up for **excused** absences.
 
-Out-of-class assignments should be typed and should either be printed to hand in at the beginning of the class period where it is due or e-mailed to me prior to the class period where it is due.
+Out-of-class assignments should be typed and should either be printed to hand in at the beginning of the class period when it is due or e-mailed to me prior to the class period when it is due.
 
 <br>
 
 ### Final Reflection
-
+TBD,
 <br>
 
 ### Attendance
@@ -127,12 +127,12 @@ The goals for this course are largely met through class attendance. Thus, the fo
 * Two unexcused absences will result in a grade no higher than a C.
 * Three or more unexcused absences will result in a failing grade.
 * Excused absences will be treated differently at my discretion. In general, four or more absences (either all excused or excused combined with unexcused) will put you in jeopardy of failing the course.
-* Excused absences may include illness, traveling for participation in an athletic event or other school-sponsored activity, or family emergency. Documentation from a coach, doctor, or other professional may be required in order for an absence to be excused.
+* Excused absences may include illness, family emergency, or travel for participation in an athletic event or other school-sponsored activity. Documentation from a coach, doctor, or other professional may be required for an absence to be excused.
 
 Consider the following examples of this attendance policy.
 
-* Abigail missed the third class period because her alarm did not go off. Her grade is not affected by this absence except that she missed points for in-class engagement and the in-class assignment.
-* Benny missed two class periods, one because he left town for a concert in the Twin Cities and one because he decided to "take the day off." These are unexcused absences, so Benny can earn no higher than a "C" for the course. In addition, he missed the in-class engagement and the in-class assignments for both days. Benny is very likely to earn a "D."
+* Abigail only missed the third class period because her alarm did not go off. Her grade is not affected by this absence except that she missed points for in-class engagement and the in-class assignment.
+* Benny missed two class periods, one because he left town for a concert in the Twin Cities and one because he decided to "take the day off." These are unexcused absences, so Benny can earn no higher than a "C" for the course. In addition, he missed the in-class engagement and the in-class assignments for both days. Benny is likely to earn a "D."
 * Claudette missed three class periods because she was traveling with the Women's Soccer team on two Thursdays and was in "concussion protocol" on another Thursday. Each one of these absences is considered excused (she had a note from her doctor about the concussion) and Claudette made up the work for each missed day. Thus, her grade is not affected by these absences.
 * Davide missed three class periods -- one because he was traveling with the Cross Country team to a meet, one because he decided to sleep in on the day after a meet, and one because he had a friend from home visiting. The first absence is considered excused, but the other two are considered unexcused. Thus, this is similar to Benny's case and Davide can earn no higher than a "C" for the course but is in danger of earning a "D" because of the work that he missed.
 * Elinor missed three consecutive weeks because she had mono, came to class for one week, and then missed the two weeks after Thanksgiving as her health declined again. Elinor had a note from her doctor explaining her illness and why she could not attend class. Elinor was unable to make up any of the work that she missed because of her illness. Elinor failed the course as she missed more than a third of the coursework. [*Note that in an instance like this, I would work with Elinor to find a less punitive administrative decision -- possibly a late withdrawal from the course. However, she would still be required to take the course again.*]
@@ -153,7 +153,7 @@ An incomplete grade will be given ONLY under extreme circumstances beyond your c
 
 <img class="img-right" src="img/cell-cheat.jpg" alt="Conduct and Integrity">
 
-My intent is to create a classroom environment where every student feels comfortable and safe to explore, learn and grow. One part of this environment is your conduct within it. My expectations of you are that you will fully participate in the course (see above) and be respectful of all others in the class. At a minimum, I expect you to adhere to the following behaviors:
+My intent is to create a classroom environment where every student feels comfortable and safe to explore, learn, and grow. One part of this environment is your conduct within it. My expectations of you are that you will fully participate in the course (see above) and be respectful of all others in the course. At a minimum, I expect you to adhere to the following behaviors:
 
 * Please arrive to class on time. If you arrive late, then take the first available seat as quietly as possible. If you need to leave early, then please sit near the exit.
 * Please attend the entire class period. Please take care of your personal needs (e.g., using the restroom) before class so that you can stay focused for the entire class period.

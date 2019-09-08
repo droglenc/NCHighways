@@ -34,8 +34,10 @@ css: /css/modules.css
 
 Please prepare for class by doing the following PRIOR to class.
 
-* Read Chapter 2 in *College Rules*.
+* Read Chapter 3 in *College Rules*.
 * Read Chapter 5 in *College Rules*.
+* Read Chapter 7 in *College Rules*.
+* Read ["The Importance of Community Participation"](The importance of community participation.pdf)
 * Reflect on your attendance at the "Clubs and Organizations Fair" of the "Everybody Party" ([details here](https://www.northland.edu/event/everybody-party/){:target="_blank"}) last Friday.
 
 ## Class Work
@@ -43,9 +45,9 @@ Please prepare for class by doing the following PRIOR to class.
 We will do the following during class.
 
 * Get warmed up!
-* Complete the "College Instructors" [Worksheet](College Instructors (Ogle).docx)
-* "Importance of Community Participation" Discussion
-* XXX Speaks
+* "College Instructors" [Exercise](College Instructors (Ogle).docx)
+* "Mapping Your Time" [Exercise](Daily_Schedule_Grid.pdf)
+* "Getting Involved" Discussion
 * Complete the "What is Your Plan for Getting Involved" [worksheet](What is your plan for getting involved (Ogle).docx).
 
 ## After Class Assignment

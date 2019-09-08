@@ -1,0 +1,24 @@
+---
+title: "Get Involved"
+author: ""
+date: ""
+output: pdf_document
+---
+
+## Lesson Plan
+1. Meet outside CSE ... Get Warmed Up [**15 mins**]
+    * XXX
+1. Stay outside ... Finish "Questions in a Hat" from last time [**5 mins**]
+1. Stay outside ... "College Instructors" Barometer Activity [**20 mins**]
+    * Derek ... print 15 questions about college instructors
+    * Lauren ... set up spots for "totally agree" and "totally disagree" ... explain positions and in-between options to students
+    * Derek & Lauren ... read questions ... students move to position that represents their view ... ask some to defend their position ... provide our view on some of the questions.
+1. Go inside ... turn room into a circle [**5 mins**]
+1. Mapping your time exercise [**20 mins**]
+    * Bring some pens and pencils
+    * Hand out the handout ... explain grid and what they are to do
+    * Let them do it ... walk around and engage with students
+1. "Getting Involved" Discussion [**20 mins**]
+    * Lauren ... discuss what she has done, how she has approached "Getting Involved"
+1. Complete the "What is Your Plan for Getting Involved?" worksheet. [**20 mins**]
+1. Explain the "Attend Campus Event or Activity" Assignment. [**3 mins**]

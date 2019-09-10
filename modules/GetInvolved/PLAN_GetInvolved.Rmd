@@ -7,7 +7,10 @@ output: pdf_document
 
 ## Lesson Plan
 1. Meet outside CSE ... Get Warmed Up [**15 mins**]
-    * XXX
+    * Gather everyone in a circle, leader of activity stands in the middle
+    * Each person in circle marks their spot with an item (shoes, water bottle, hat, etc) as a placemark
+    * Person in middle says their name and makes a statement that is true for them that might also be true for those in the circle (ex: "I am Derek and the wind blows for those of us who have siblings")
+    * Those in the circle for which the statement is true (and the person in the middle) must find a new spot in the circle that is not directly next to them, the person left without a spot is the next person in the middle who comes up with the next statement (if it doesn't apply to someone, that person stays in their spot)
 1. Stay outside ... Finish "Questions in a Hat" from last time [**5 mins**]
 1. Stay outside ... "College Instructors" Barometer Activity [**20 mins**]
     * Derek ... print 15 questions about college instructors
@@ -20,5 +23,5 @@ output: pdf_document
     * Let them do it ... walk around and engage with students
 1. "Getting Involved" Discussion [**20 mins**]
     * Lauren ... discuss what she has done, how she has approached "Getting Involved"
-1. Complete the "What is Your Plan for Getting Involved?" worksheet. [**20 mins**]
+1. Complete the "What is Your Plan for Getting Involved?" worksheet. [**10 mins**]
 1. Explain the "Attend Campus Event or Activity" Assignment. [**3 mins**]

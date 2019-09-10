@@ -44,7 +44,9 @@ Please prepare for class by doing the following PRIOR to class.
 
 We will do the following during class.
 
-* Get warmed up!
+* Get warmed up
+* Finish "Questions in a Hat" exercise from last time.
+    * [This is an example of a Butterwort with chartreuse leaves](Butterworts.jpg).
 * "College Instructors" [Exercise](College Instructors (Ogle).docx)
 * "Mapping Your Time" [Exercise](Daily_Schedule_Grid.pdf)
 * "Getting Involved" Discussion

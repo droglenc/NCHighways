@@ -35,19 +35,29 @@ css: /css/modules.css
 
 Please prepare for class by doing the following PRIOR to class.
 
-* 
+* Read ["Healthy Abstainer Profile"](Healthy abstainer profile.pdf)
+* Read ["Healthy Drinker Profile"](Healthy drinker profile.pdf)
+* Read ["What's Your Degree Worth"](Whats your degree worth.pdf)
+* Watch ["What is Title IX"](https://www.youtube.com/watch?v=AKC72NYykXQ)
+* Read [Title IX Resources at Northland](https://my.northland.edu/life/titleix/) with special attention to "Consent" and "Services and Resources"
 
 ## Class Work
 
 We will do the following during class.
 
-* 
+<ul>
+  <li><span style="color:red;font-weight:bold">MEET IN THE ALVORD FOR THE FIRST HOUR</span></li>
+  <li><a href="Personal use of alcohol assessment (Ogle).docx">Alcohol Use Assessment</a></li>
+  <li><a href="https://nomore.org/learn/bystander-scenarios/">Bystander Scenarios Activity</a><li>
+  <li><a href="What path will you choose (Ogle)">What Path Will You Choose</a></li>
+</ul>
 
 ## After Class Assignment
 
 You should complete the following to hand in at the beginning of the next class period.
 
-* 
+* Attend a campus or community event or activity and complete [this reflection](Campus Activity Attendance and Reflection (Ogle).docx). **Due on or before 3-Oct.**
+* Continue to reflect on your time management, allocation, and useage.
 * Do class preparation for [next module](../Academics).
 
 ----

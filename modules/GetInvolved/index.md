@@ -60,3 +60,10 @@ You should complete the following to hand in at the beginning of the next class 
 * Do class preparation for [next module](../Health).
 
 ----
+
+## Other Resources
+
+* [How to Get Involved in Campus Activities](https://thebestschools.org/magazine/how-to-get-involved-in-campus-activities/)
+
+
+----

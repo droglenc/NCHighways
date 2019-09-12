@@ -51,3 +51,9 @@ You should complete the following to hand in at the beginning of the next class 
 * Do class preparation for [next module](../Adulting).
 
 ----
+
+## Other Resources
+
+* [How to Do Time Management](https://thebestschools.org/magazine/how-to-manage-time/)
+
+----

@@ -45,13 +45,10 @@ Please prepare for class by doing the following PRIOR to class.
 
 We will do the following during class.
 
-<ul>
-  <li><span style="color:red;font-weight:bold">MEET IN THE ALVORD FOR THE FIRST HOUR</span></li>
-  <li><a href="Personal use of alcohol assessment (Ogle).docx">Alcohol Use Assessment</a></li>
-  <li><a href="https://nomore.org/learn/bystander-scenarios/">Bystander Scenarios Activity</a><li>
-  <li><a href="What path will you choose (Ogle).docx">What Path Will You Choose?</a></li>
-
-</ul>
+* **MEET IN THE ALVORD FOR THE FIRST HOUR**
+* [Alcohol Use Assessment](Personal use of alcohol assessment (Ogle).docx)
+* [Bystander Scenarios Activity](https://nomore.org/learn/bystander-scenarios/)
+* [What Path Will You Choose?](What path will you choose (Ogle).docx)
 
 
 ## After Class Assignment

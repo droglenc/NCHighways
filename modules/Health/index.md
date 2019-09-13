@@ -49,8 +49,9 @@ We will do the following during class.
   <li><span style="color:red;font-weight:bold">MEET IN THE ALVORD FOR THE FIRST HOUR</span></li>
   <li><a href="Personal use of alcohol assessment (Ogle).docx">Alcohol Use Assessment</a></li>
   <li><a href="https://nomore.org/learn/bystander-scenarios/">Bystander Scenarios Activity</a><li>
-  <li><a href="What path will you choose (Ogle)">What Path Will You Choose</a></li>
+  <li><a href="What path will you choose (Ogle).docx">What Path Will You Choose?</a></li>
 </ul>
+
 
 ## After Class Assignment
 

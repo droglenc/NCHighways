@@ -34,7 +34,7 @@ css: /css/modules.css
 
 Please prepare for class by doing the following PRIOR to class.
 
-* 
+* [How Do I Balance School & Social Life at College](https://www.youtube.com/watch?v=4t2jmbjtYbw&list=PLVix8d69sPe4PZ5M0YCmgdqIcFmvGuMZ0&index=6)
 
 ## Class Work
 

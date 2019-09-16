@@ -60,3 +60,7 @@ You should complete the following to hand in at the beginning of the next class 
 * Do class preparation for [next module](../Academics).
 
 ----
+
+## Other Resources
+
+* [How Do I Stay Healthy and Practice Self-Care](https://www.youtube.com/watch?v=QRh6qG1p2lc&list=PLVix8d69sPe4PZ5M0YCmgdqIcFmvGuMZ0&t=0s)

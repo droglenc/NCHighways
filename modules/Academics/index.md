@@ -70,7 +70,7 @@ We will do the following during class.
 You should complete the following to hand in at the beginning of the next class period.
 
 * Begin the ["Recording Your Time" Exercise](Recording Your Time (Ogle).docx) ... will be due on 10-Oct.
-* Attend a campus or community event or activity and complete [this reflection](Campus Activity Attendance and Reflection (Ogle).docx). **Due on or before 3-Oct.**
+* Attend a campus or community event or activity and complete [this reflection](../GetInvolved/Campus Activity Attendance and Reflection (Ogle).docx). **Due on or before 3-Oct.**
 * Do class preparation for [next module](../Adulting).
 
 ----

@@ -44,7 +44,25 @@ Please prepare for class by doing the following PRIOR to class.
 
 We will do the following during class.
 
-* Meet with Derek in his office for a quick "check-in".
+* Meet with Derek (at the times below) in his office for a quick "check-in".
+    * 2:58 - Wynn
+    * 2:05 - Windham
+    * 2:12 - Tinkle
+    * 2:19 - Shipley-Mellon
+    * 2:26 - Rich
+    * 2:32 - McLaughlin
+    * 2:39 - Mardak-Kennebeck
+    * 2:46 - Korpela
+    * 2:53 - Johnson
+    * 3:00 - Hewitt
+    * 3:07 - Mustache
+    * 3:14 - Griffith
+    * 3:21 - O'Connor
+    * 3:29 - Flint
+    * 3:36 - Dostaler
+    * 3:43 - Cole
+    * 3:50 - Boose
+    * 3:57 - Anderson
 
 
 ## After Class Assignment

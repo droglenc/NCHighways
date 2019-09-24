@@ -37,7 +37,7 @@ Please prepare for class by doing the following PRIOR to class.
 
 * Read Chapter 7 in *College Rules*.
 * Read Chapter 8 OR 10 (or both) in *College Rules*.
-* Read [21 Way to Get the Most Out of Now](21 Way to get the most out of now (Ogle).docx)
+* Read [21 Way to Get the Most Out of Now](21 Ways to get the most out of now (Ogle).docx)
 * Continue to reflect on your time management, allocation, and useage.
 
 ## Class Work

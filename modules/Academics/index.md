@@ -35,19 +35,24 @@ css: /css/modules.css
 
 Please prepare for class by doing the following PRIOR to class.
 
-* 
+* Read Chapter 7 in *College Rules*.
+* Read Chapter 8 OR 10 (or both) in *College Rules*.
+* Read [21 Way to Get the Most Out of Now](21 Way to get the most out of now (Ogle).docx)
+* Continue to reflect on your time management, allocation, and useage.
 
 ## Class Work
 
 We will do the following during class.
 
-* 
+* Meet with Derek in his office for a quick "check-in".
+
 
 ## After Class Assignment
 
 You should complete the following to hand in at the beginning of the next class period.
 
-* 
+* Begin the ["Recording Your Time" Exercise](Recording Your Time (Ogle).docx) ... will be due on 10-Oct.
+* Attend a campus or community event or activity and complete [this reflection](Campus Activity Attendance and Reflection (Ogle).docx). **Due on or before 3-Oct.**
 * Do class preparation for [next module](../Adulting).
 
 ----
@@ -55,5 +60,6 @@ You should complete the following to hand in at the beginning of the next class 
 ## Other Resources
 
 * [How to Do Time Management](https://thebestschools.org/magazine/how-to-manage-time/)
+* [How to Stay Organized in College With Your Phone](https://thebestschools.org/resources/stay-organized-in-college-with-your-smartphone/)
 
 ----

@@ -6,11 +6,9 @@ output: pdf_document
 ---
 
 ## Lesson Plan
-1. Meet in Alvord [**60 mins**]
+1. Meet in Alvord ... handout paper for questions [**60(?) mins**]
 1. Return to our classroom [**5 mins**]
 
-1. Do Alcohol Use Survey [**10 mins**]
-1. Discuss Title IX [**10 mins**] ... if not in 1st hour
-1. Bystander activity [**20 mins**]
-    * Do scenarios
-    * Play [this video](https://www.youtube.com/watch?v=896NBBL4ri0) ... discuss content and controversy
+1. Bystander activity [**30(?) mins**]
+1. Discuss questions from first hour [**XX mins**]
+1. Complete "What path will you choose?" [**10 mins**]

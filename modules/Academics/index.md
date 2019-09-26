@@ -45,7 +45,7 @@ Please prepare for class by doing the following PRIOR to class.
 We will do the following during class.
 
 * Meet with Derek (at the times below) in his office for a quick "check-in".
-    * 2:58 - Wynn
+    * 1:58 - Wynn
     * 2:05 - Windham
     * 2:12 - Tinkle
     * 2:19 - Shipley-Mellon

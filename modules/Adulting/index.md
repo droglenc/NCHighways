@@ -35,6 +35,9 @@ css: /css/modules.css
 Please prepare for class by doing the following PRIOR to class.
 
 * [How Do I Balance School & Social Life at College](https://www.youtube.com/watch?v=4t2jmbjtYbw&list=PLVix8d69sPe4PZ5M0YCmgdqIcFmvGuMZ0&index=6)
+* [What is Mindfulness?](https://student.korumindfulness.org/audio/Intro_MindfulnessMeditation_1015.mp3)
+* [6 Ways to Practice Mindfulness in College](https://www.freshu.io/lauren-reamy/6-ways-to-practice-mindfulness-in-college)
+* [5 Ways to Practice Mindfulness in College](https://www.teachforamerica.org/stories/5-ways-to-practice-mindfulness-in-college)
 
 ## Class Work
 
@@ -48,5 +51,10 @@ You should complete the following to hand in at the beginning of the next class 
 
 * 
 * Do class preparation for [next module](../Diversity).
+
+## Other Resources
+
+* [Meditation & Mindfulness on Campus: A Student Guide to Going Zen](https://www.affordablecollegesonline.org/college-resource-center/mindfulness-meditation/)
+* [The Mind/Body Connection for Students: Reaching & Staying in the Zen Zone](https://www.accreditedschoolsonline.org/resources/zen-lifestyle-in-school/)
 
 ----

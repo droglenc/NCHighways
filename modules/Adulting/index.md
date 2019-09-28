@@ -43,13 +43,14 @@ Please prepare for class by doing the following PRIOR to class.
 
 We will do the following during class.
 
+* Concepts and Techniques of Mindfulness (Jodi Supanich, guest instructor)
 * 
 
 ## After Class Assignment
 
 You should complete the following to hand in at the beginning of the next class period.
 
-* 
+* Continue work on the ["Recording Your Time" Exercise](../Academics/Recording Your Time (Ogle).docx) ... will be due on 10-Oct.
 * Do class preparation for [next module](../Diversity).
 
 ## Other Resources

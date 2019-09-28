@@ -34,6 +34,7 @@ css: /css/modules.css
 
 Please prepare for class by doing the following PRIOR to class.
 
+* Read Chapter 8 OR 10 (whichever one you did not read last week) in *College Rules*.
 * [How Do I Balance School & Social Life at College](https://www.youtube.com/watch?v=4t2jmbjtYbw&list=PLVix8d69sPe4PZ5M0YCmgdqIcFmvGuMZ0&index=6)
 * [What is Mindfulness?](https://student.korumindfulness.org/audio/Intro_MindfulnessMeditation_1015.mp3)
 * [6 Ways to Practice Mindfulness in College](https://www.freshu.io/lauren-reamy/6-ways-to-practice-mindfulness-in-college)

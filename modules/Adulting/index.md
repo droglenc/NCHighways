@@ -45,7 +45,9 @@ Please prepare for class by doing the following PRIOR to class.
 We will do the following during class.
 
 * Concepts and Techniques of Mindfulness (Jodi Supanich, guest instructor)
-* 
+* [Testing Worksheet](Testing (Ogle).docx)
+* [Taking Control of Test Anxiety](Test Anxiety (Ogle).docx)
+* [Living More Mindfully Assignment](Living more mindfully (Ogle).docx)
 
 ## After Class Assignment
 
@@ -58,5 +60,9 @@ You should complete the following to hand in at the beginning of the next class 
 
 * [Meditation & Mindfulness on Campus: A Student Guide to Going Zen](https://www.affordablecollegesonline.org/college-resource-center/mindfulness-meditation/)
 * [The Mind/Body Connection for Students: Reaching & Staying in the Zen Zone](https://www.accreditedschoolsonline.org/resources/zen-lifestyle-in-school/)
+* [10 Stress Management Techniques for Students](https://www.verywellmind.com/top-school-stress-relievers-for-students-3145179)
+* [How to Overcome Test Anxiety](https://www.verywellmind.com/test-anxiety-3024422)
+* [10 Ways to Overcome Test Anxiety](https://www.princetonreview.com/college-advice/test-anxiety)
+* [DETER Strategy](https://www.youtube.com/watch?v=JocGdqxST6c)
 
 ----

@@ -44,7 +44,7 @@ Please prepare for class by doing the following PRIOR to class.
 
 We will do the following during class.
 
-* Concepts and Techniques of Mindfulness (Jodi Supanich, guest instructor)
+* Concepts and Techniques of Mindfulness (Jodi Supanich, guest instructor) ... her [handout](https://docs.google.com/document/d/1IGnqnuXias-_D8lcYRP9iUzIBjYutHY7g8soA2XAzFE/edit)
 * [Testing Worksheet](Testing (Ogle).docx)
 * [Taking Control of Test Anxiety](Test Anxiety (Ogle).docx)
 * [Living More Mindfully Assignment](Living more mindfully (Ogle).docx)

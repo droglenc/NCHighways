@@ -42,7 +42,7 @@ Please prepare for class by doing the following PRIOR to class.
 We will do the following during class.
 
 * Briefly discuss what you learned from the "Recording Your Time" Exercise.
-* [Introduction to Graduation Requirements](https://docs.google.com/presentation/d/1T1IV7vCAWLpCfDuvLsnmubMo22W-LBOcM5apTCFzHL8/edit#slide=id.gc6f73a04f_0_0){:target="_blank"}.
+* [Navigating Graduation Requirements](https://docs.google.com/presentation/d/1T1IV7vCAWLpCfDuvLsnmubMo22W-LBOcM5apTCFzHL8/edit?usp=sharing){:target="_blank"}.
 * Building a Four-Year Plan.
 
 ## After Class Assignment

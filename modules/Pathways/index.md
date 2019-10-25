@@ -46,7 +46,7 @@ We will do the following during class.
 
 You should complete the following to hand in at the beginning of the next class period.
 
-* 
+* [Northwoods Pathways Reflection](Northwoods Pathways Reflection.docx)
 * Do class preparation for [next module](../CriticalThinking).
 
 ----

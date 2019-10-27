@@ -40,7 +40,7 @@ Please prepare for class by doing the following PRIOR to class.
 
 We will do the following during class.
 
-* 
+* Participate in a lead field trip. Details TBA.
 
 ## After Class Assignment
 

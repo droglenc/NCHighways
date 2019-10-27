@@ -34,13 +34,16 @@ css: /css/modules.css
 
 Please prepare for class by doing the following PRIOR to class.
 
-* 
+* Read [William Cronon's "Only Connect"](Only Connect.pdf) ... come prepared with an understanding of Cronon's 10 qualities for a liberally education person.
+* Read [What is a liberal arts educaion?](https://www.topuniversities.com/blog/what-liberal-arts-education)
+* Read [5 reasons why you need a liberal arts education](https://www.collegexpress.com/articles-and-advice/majors-and-academics/blog/5-reasons-why-you-need-liberal-arts-education/)
 
 ## Class Work
 
 We will do the following during class.
 
-* 
+* Attend a panel discussion about liberal education. [*First hour*]
+* [Reflect on the panel discussion and your readings](Liberal Education Discussion Reflection.docx) [*Second hour*]
 
 ## After Class Assignment
 

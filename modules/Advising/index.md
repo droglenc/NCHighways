@@ -34,7 +34,7 @@ Please prepare for class by doing the following PRIOR to class.
 
 * Complete the ["Recording Your Time" Exercise](../Academics/Recording Your Time (Ogle).docx), which will be due this class period.
 * Print the requirements for a major or two that you are interested in.
-    * Goto the [College Catalog](http://catalog.northland.edu/){:target="_blank"} ... select "Majors and Minors" on the left ... scroll down to find and select your major ... select the printer icon in the upper-right (which will open a new window; [here is an example for History](catalog.northland.edu/preview_program.php?catoid=19&poid=1355&print)){:target="_blank"} ... select "Print This Page"
+    * Goto the [College Catalog](http://catalog.northland.edu/){:target="_blank"} ... select "Majors and Minors" on the left ... scroll down to find and select your major ... select the printer icon in the upper-right (which will open a new window; [here is an example for History](catalog.northland.edu/preview_program.php?catoid=19&poid=1355&print){:target="_blank"}) ... select "Print This Page"
 * Also print the requirements for any minors that you are interested in.
 
 ## Class Work
@@ -49,12 +49,16 @@ We will do the following during class.
 
 You should complete the following to hand in at the beginning of the next class period.
 
-* 
 * Do class preparation for [next module](../Careers).
 
 ## Resources
 
 * [College Catalog](http://catalog.northland.edu/){:target="_blank"}
 * [Graduation Requirements Checklist](https://drive.google.com/drive/folders/1eaA8aWJXFmXrYw_lBLU_lWCQ44vvNfr8){:target="_blank"}
-* [Course Rotations List]()
+* [Course Rotations List](https://my.northland.edu/registration/register/course-rotations/)
+* [Courses that Meet LEES Categories](https://my.northland.edu/registration/how-to-register/general-education/#17after)
+* [Course Search](http://my.northland.edu/registration/register/course-schedule/)
+* [Registration Instructions](https://my.northland.edu/registration/how-to-register/registration-instructions/)
+
+
 ----

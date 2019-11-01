@@ -33,19 +33,20 @@ css: /css/modules.css
 
 Please prepare for class by doing the following PRIOR to class.
 
-* 
+* Read [Saetre's "Endowed with a Deeper Life"](Endowed With A Deeper Life.pdf)
+* Read [Saetre's "Brief History of Northland's Commitment to the Ojibwe"](A Brief History of Northland College Commitments to the Ojibwe.pdf)
 
 ## Class Work
 
 We will do the following during class.
 
-* 
+* TBD
 
 ## After Class Assignment
 
 You should complete the following to hand in at the beginning of the next class period.
 
-* 
+* TBD
 * Do class preparation for [next module](../Finances).
 
 ----

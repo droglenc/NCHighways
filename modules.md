@@ -22,9 +22,9 @@ title:
 <tr><th>31-Oct</th><td><a href="modules/CriticalThinking">Everything Is Not As It Seems</a></td></tr>
 <tr><th>7-Nov</th><td><a href="modules/NCHistory">Northland Through The Ages</a></td></tr>
 <tr><th>14-Nov</th><td><a href="modules/Finances">Change In My Pocket</a></td></tr>
-<tr><th>21-Nov</th><td><a href="modules/Sustainability">Sustainability -- Beyond The Buzzword</a></td></tr>
+<tr><th>21-Nov</th><td><a href="modules/Engagement">Who Do You Want To Become?</a></td></tr>
 <tr><th>28-Nov</th><td>Thanksgiving (No Class)</td></tr>
-<tr><th>5-Dec</th><td><a href="modules/Engagement">Who Do You Want To Become?</a></td></tr>
+<tr><th>5-Dec</th><td><a href="modules/Sustainability">Sustainability -- Beyond The Buzzword</a></td></tr>
 <tr><th>12-Dec</th><td><a href="modules/Final">Looking Back On The Semester</a></td></tr>
 </table>
 

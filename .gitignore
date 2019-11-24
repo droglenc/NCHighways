@@ -4,6 +4,9 @@ zzzYearSpecific/
 ## Old administrative stuff that does not need to be in the repo
 zzzMaterials/
 
+## File is too big
+modules/NCHistory/Northland_History_2011.mov
+
 ## R project info
 .Rproj.user
 .Rproj.user/*.*

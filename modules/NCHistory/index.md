@@ -40,7 +40,7 @@ Please prepare for class by doing the following PRIOR to class.
 
 We will do the following during class.
 
-* TBD
+* [Northland College Scavenger Hunt](Resources Scavenger Hunt.docx)
 
 ## After Class Assignment
 

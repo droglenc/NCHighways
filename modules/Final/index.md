@@ -16,29 +16,11 @@ css: /css/modules.css
       <div class="panel-body">
 <p>TBD.</p>
 
-<p>After completing this module, you should be able to ...</p>
-
-<ol>
-  <li>TBD.</li>
-</ol>
-      </div>
-    </div>
-  </div>
-</div>
-
 ----
-
-## Preparation for Class
-
-Please prepare for class by doing the following PRIOR to class.
-
-* 
 
 ## Class Work
 
-We will do the following during class.
-
-* 
+* [See this assignment](Final Reflection (Ogle).docx)
 
 ## After Class Assignment
 

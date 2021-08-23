@@ -9,11 +9,11 @@ css: /css/syllabus.css
   <p align="center">IDS111 Northland Highways<br> <br>Syllabus<br><br></p>
 </div>
 
-Northland's motto is "A highway shall be there." While this saying has [biblical origins]() and has been interpreted in different ways over the years, I prefer to think of this "highway" as your "life's path." Your time at Northland is just one part of your life's path but it can greatly impact your direction after college.
+Northland's motto is "A highway shall be there." While this saying has [biblical origins](https://www.biblegateway.com/passage/?search=Isaiah+35%3A8-10&version=KJV) and has been interpreted in different ways over the years, I prefer to think of this "highway" as your "life's path." Your time at Northland is just one part of your life's path but the small steps you take in your time here here may greatly impact the "highway" you travel after graduation.
 
-Your start here at Northland is a unique moment along your journey. The main goal for this course is for April and I to help you get started on that journey. Our objective is to provide a safe, open, and inclusive learning environment for you to ask questions; learn about Northland, the community, and college in general; and explore what a successful journey at Northland looks like for you. Please explore the syllabus below and the course modules for specific objectives to help reach this goal.
+Thus, your start at Northland is a unique moment along your journey. The main goal for this course is for April and I to help you get started on that journey. Our objective is to provide a safe, open, and inclusive learning environment for you to ask questions; learn about Northland, the community, and college in general; and explore what a successful journey at Northland looks like for you. Please explore the syllabus below and the course modules for specific objectives to help reach this goal.
 
-----
+&nbsp;
 
 * Course -- [Time & Location](time-and-location), [Description](#course-description), [Learning Outcomes](#intended-learning-outcomes)
 * Assistance -- [Instructor](#instructor), [Student Mentor](#student-mentor), [Accommodations](#accommodations), [Academic Alerts](#academic-alerts)
@@ -21,6 +21,9 @@ Your start here at Northland is a unique moment along your journey. The main goa
 * Environment -- [Classroom Conduct and Academic Integrity](#classroom-conduct-and-academic-integrity), [Work Outside of Class](#work-outside-of-class), [Title IX Statement](#title-ix-statement), [COVID-19 Statement](#covid-19-statement)
 
 ----
+
+## Time and Location
+This course meets nearly every Thursday (see [modules tab](modules) for exact dates) from 3-4pm in room 125 of the Larson-Juhl Center for the Science and Environment (LJCSE125).
 
 ## Course Description
 Northland Highways is a college transition-themed first-year seminar course that introduces students to the Northland College mission, acclimates them to the campus community and the northland region, and prepares them for academic, social, and personal success in college. Northland Highways builds on the foundational work of Outdoor Orientation and is part of the broader continuum of transition programming for new students.
@@ -63,12 +66,12 @@ If I observe you "struggling" with the course early in the semester then I may i
 ----
 
 ## Grading
-Your grade in this course will be based on your attendance, your in-class engagement, and assignments, which will be combined according to the following weights:
+Your grade in this course will be based on your attendance, your in-class engagement, and exercise assignments, which will be combined according to the following weights:
 
-<table class="tg" width="90%">
+<table class="tg" width="50%">
 <tr><td width="25%">Item</td>
 <td width="37.5%">Engagement</td>
-<td width="37.5%">Assignments</td>
+<td width="37.5%">Exercises</td>
 </tr>
 <tr><td>Weight</td>
 <td>50%</td><td>50%</td></tr>
@@ -124,12 +127,8 @@ I will assess your engagement at the end of each class period with the following
 
 You should plan on spending approximately 2 hours per week of time without distraction outside of class preparing for each module (i.e., doing the assigned readings, completing out-of-class assignments).[^time] **The work required for this course can be completed within this expected amount of time**. If you feel that you are spending an inordinate amount of time preparing for this course please see me or the TA.
 
-<br>
-
-### Exercise
+### Exercises
 Each module will have an associated written exercise, details for which will be given when the exercise is assigned. Exercises should be typed and printed to hand in at the beginning of the class period when it is due.
-
-<br>
 
 ### Incomplete Grades
 An incomplete grade will be given ONLY under extreme circumstances beyond your control, such as a major illness, and will ONLY be given if you have successfully completed the entire course except for the final exam. This is in accordance with [Northland College policy](https://my.northland.edu/student-policies/academic-policies/#grades){:target="_blank"} (scroll down to "Incomplete Grades").
@@ -169,7 +168,8 @@ It is my hope that we can maintain a face-to-face classroom for the entire sessi
 - Thoroughly [wash your hands](https://www.northland.edu/about/reopening-plan/#hand-hygiene){:target="_blank"} prior to entering the classroom.
 - Please [properly wear your mask](https://www.hopkinsmedicine.org/health/conditions-and-diseases/coronavirus/proper-mask-wearing-coronavirus-prevention-infographic){:target="_blank"} at all times when entering the building and the classroom. This is in compliance with [Northland's face covering policy](https://www.northland.edu/about/covid-plan/#beahviors-that-reduce-spread){:target="_blank"}. &#x1F637;
 - Maintain proper [physical/social distance](https://www.northland.edu/about/reopening-plan/#physical-distancing){:target="_blank"} (three feet) from other students while in the classroom.
-- Communicate issues to me (see [ways to communicate to me above](#instructor--derek-ogle)) so that I am aware and can try to address the issues.
+- Communicate issues to me (see [ways to communicate to me above](#instructor)) so that I am aware and can try to address the issues.
+
 ----
 
 ### Footnotes

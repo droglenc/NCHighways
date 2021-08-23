@@ -42,5 +42,10 @@ ol ol {
 }
 
 .panel-primary {
-     background-color: #194719 !important;
+   background-color: CornSilk !important;
+}
+
+.panel-heading {
+  color: CornSilk !important;
+  background-color: DarkSlateGray !important;
 }

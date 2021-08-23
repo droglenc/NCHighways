@@ -9,9 +9,9 @@ css: /css/syllabus.css
   <p align="center">IDS111 Northland Highways<br> <br>Syllabus<br><br></p>
 </div>
 
-The Northland motto is "**A highway shall be there**." While this saying has [biblical origins](https://www.biblegateway.com/passage/?search=Isaiah+35%3A8-10&version=KJV) and has been interpreted in different ways over the years, I prefer to think of this "highway" as your "life's path." Your time at Northland is just one part of your life's path but the small steps you take in your time here may greatly impact the "highway" you travel after graduation.
+The Northland motto is "**A highway shall be there**." This saying has [biblical origins](https://www.biblegateway.com/passage/?search=Isaiah+35%3A8-10&version=KJV), but I prefer to think of this "highway" as your "life's path." Your time at Northland is one part of your life's path but the steps you take here can greatly impact the direction of your "highway."
 
-Thus, your start at Northland is a unique moment along your journey. The main goal for this course is for April and I to help you get started on that journey. Our objective is to provide a safe, open, and inclusive learning environment for you to ask questions; learn about Northland, the community, and college in general; and explore what a successful journey at Northland looks like for you. Please explore the syllabus below and the [course modules](modules) for specific objectives to help reach this goal.
+Thus, your start at Northland is a unique moment of your journey. In this course April and I aim to help you get started on that journey. Our objective is to provide a safe, open, and inclusive learning environment for you to ask questions; learn about Northland, the community, and college in general; and explore what a successful journey at Northland looks like for you. Please explore the syllabus below and the [course modules](modules) for specific objectives to help reach this goal.
 
 &nbsp;
 
@@ -32,12 +32,12 @@ Northland Highways is a college transition-themed first-year seminar course that
 In this course you will ...
 
 1. Develop a sense of community through your relationships with mentors, staff, and faculty;
-1. Become familiar with campus resources that will help your meet your academic, social, and personal goals endeavors; 
+1. Become familiar with campus resources that will help your meet your academic, social, and personal goals; 
 1. Develop a sense of place through understanding Northland’s history, mission, and vision and by actively exploring the campus and surrounding area;
-1. Articulate what success in college means to them;
+1. Articulate what success in college means to you;
 1. Learn strategies that will help you achieve your collegiate goals;
 1. Identify areas of strength in order to make informed decisions about your major and life's path;
-1. Create a four-year plan that maps out your liberal education curriculum and selected or hypothetical major’s coursework; and
+1. Create a four-year plan that maps out coursework for your *Liberal Education for the Environment and Society* (Lees) curriculum and a selected major; and
 1. Learn how to participate in small-group, seminar-style classroom discussions. 
 
 ----
@@ -58,15 +58,19 @@ I am committed to your doing well in this course and more broadly at Northland C
 In addition, April Shipley-Mellon will serve as a teaching assistant for this course. April .... Please feel free to e-mail April at <a href="mailto:XXX@myemail.northland.edu">XXX@myemail.northland.edu</a> if you have questions or need help.
 
 ### Accommodations
-I want to create an inclusive and accessible learning environment for those of you that have a condition (e.g., attention, learning, vision, hearing, mental, physical, or other health-related concern) that may require special accommodations. *If you have already established accommodations* with the Office of Accessibility Resources (OAR), please communicate your approved accommodations to me as soon as possible so that we can discuss your needs in this course. If you have a condition that requires accommodations but *you have not yet established services* through OAR, then you should contact the Accommodations Specialist as soon as possible (<a href="mailto:accommodations@northland.edu">accommodations@northland.edu</a>). It is the policy and practice of Northland College to create inclusive and accessible learning environments consistent with federal and state law. <a href="https://my.northland.edu/campus-life/student-welfare/accommodations/" target="_blank">More information is available here.</a>
+I want to create an inclusive and accessible learning environment for those of you that have a reason (e.g., attention, learning, vision, hearing, mental, physical, or other health-related concern) that may require special accommodations. *If you have already established accommodations* with the Office of Accessibility Resources (OAR), please communicate your approved accommodations to me as soon as possible so that we can discuss your needs in this course. If you have a condition that requires accommodations but *you have not yet established services* through OAR, then you should contact the Accommodations Specialist as soon as possible (<a href="mailto:accommodations@northland.edu">accommodations@northland.edu</a>).
+
+Note that it is the policy and practice of Northland College to create inclusive and accessible learning environments consistent with federal and state law. <a href="https://my.northland.edu/campus-life/student-welfare/accommodations/" target="_blank">More information is available here.</a>
 
 ### Academic Alerts
 If I observe you "struggling" with the course early in the semester then I may issue an "Academic Alert" about you. If this happens, you will receive an e-mail from me that will suggest steps you can take to improve your performance in the course. Our Academic Success Coordinator will also receive the alert and will likely also reach out to you. **Academic Alerts are not punitive**, they are simply an attempt to help you get back on track in this course as soon as possible.
 
+Further note as your Highways instructor I may receive Academic Alerts about you from professors in your other classes. If this happens I will reach out to discuss the alert with you.
+
 ----
 
 ## Grading
-Your grade in this course will be based on your attendance, your in-class engagement, and exercise assignments, which will be combined according to the following weights:
+Your grade in this course will be based on your attendance, in-class engagement, and performance on exercise assignments, which will be combined according to the following weights:
 
 <table class="tg" width="50%">
 <tr><td width="25%">Item</td>
@@ -91,12 +95,12 @@ Your letter grade will be assigned from your overall percentage (rounded to a wh
 ### Attendance
 The goals for this course are largely met through class attendance. Thus, the following *strict* attendance policy is used for this course.
 
-* Two or more unexcused absences will result in a failing grade (*and you will be required to take the course again).
-* Excused absences will be treated differently at my discretion but will generally not be punitive **as long as the in-class work and assignments are made up**. Excused absences must be communicated to me by at least noon of the day of the class period.
+* Two or more unexcused absences will result in a failing grade (*and you will be required to take the course again*).
+* Excused absences will be treated differently at my discretion but will generally not be punitive **as long as the in-class work and assignments are made up**. Please communicate with me about excused absences by at least noon of the day of the class period.
 
 Consider the following examples of this attendance policy.
 
-* Abigail missed the third class period because her alarm did not go off. Her grade is not affected by this absence except that she missed points for in-class engagement and the in-class assignment (because the absence was unexcused).
+* Abigail missed the third class period because her car would not start. Her grade is not affected by this absence except that she missed points for in-class engagement (because the absence was unexcused).
 * Benny missed two class periods, one because he left town for a concert in the Twin Cities and one because he decided to "take the day off." These are unexcused absences, so Benny will fail the course and will need to retake it in the future
 * Claudette missed three class periods because she was traveling with the Women's Soccer team on two Thursdays and was in "concussion protocol" on another Thursday. Each one of these absences is considered excused (she had a note from her doctor about the concussion) and Claudette clearly communicated the absences to me before each class period and she made up the work for each missed day. Thus, her grade is not affected by these absences.
 * Davide missed three class periods -- one because he was traveling with the Cross Country team to a meet, one because he decided to sleep in on the day after a meet, and one because he had a friend from home visiting. The first absence is considered excused, but the other two are considered unexcused. Thus, this is similar to Benny's case and Davide will fail the course and need to take it again in the future.
@@ -125,8 +129,6 @@ I will assess your engagement at the end of each class period with the following
   </table>
 </div>
 
-You should plan on spending approximately 2 hours per week of time without distraction outside of class preparing for each module (i.e., doing the assigned readings, completing out-of-class assignments).[^time] **The work required for this course can be completed within this expected amount of time**. If you feel that you are spending an inordinate amount of time preparing for this course please see me or the TA.
-
 ### Exercises
 Each module will have an associated written exercise, details for which will be given when the exercise is assigned. Exercises should be typed and printed to hand in at the beginning of the class period when it is due.
 
@@ -137,7 +139,7 @@ An incomplete grade will be given ONLY under extreme circumstances beyond your c
 
 ## Environment
 ### Classroom Conduct and Academic Integrity
-My intent is to create a classroom environment where every student feels comfortable and safe to explore, learn, and grow. One part of this environment is your conduct within it. My expectations of you are that you will fully participate in the course (see above) and be respectful of all others in the course. At a minimum, I expect you to adhere to the following behaviors:
+My intent is to create a classroom environment where every student feels comfortable and safe to explore, learn, and grow. One part of this environment is your conduct within it. My expectations of you are that you will fully participate in the course (see [Engagement](#engagement) above) and be respectful of all others in the course. At a minimum, I expect you to adhere to the following behaviors:
 
 * Please arrive to class on time. If you arrive late, then take the first available seat as quietly as possible. If you need to leave early, then please sit near the exit.
 * Please attend the entire class period. Please take care of your personal needs (e.g., using the restroom) before class so that you can stay focused for the entire class period.
@@ -149,7 +151,7 @@ My intent is to create a classroom environment where every student feels comfort
 Finally, note that the [College's Academic Integrity Statement & Policy](https://my.northland.edu/student-policies/academic-policies/#academic-integrity){:target="_blank"} will be followed in this course. Please make sure that you are familiar with its content.
 
 ### Work Outside of Class
-As a general rule-of-thumb[^studytime], you are expected to spend 2-3 hours of time outside of class for each hour in class. For this course, you will meet for 1 hour per week and, thus, you should dedicate between 2 and 3 hours of time outside of class time preparing for class, completing assignments, reviewing your work, and asking questions or for help. **The work required for this course can be completed within this expected amount of time, if that time is without distraction**. If monitoring your phone/device is distracting you from getting your work done then you may consider the aid of apps (e.g., [Forest](https://www.forestapp.cc/)) designed to reduce distractions from devices.[^DistractionAids]  
+As a general rule-of-thumb,[^studytime] you are expected to spend 2-3 hours of time outside of class for each hour in class. For this course, we will meet for 1 hour per week and, thus, you should dedicate between 2 and 3 hours of time outside of class time each week to prepare for class, complete assignments, review your work, and ask questions or for help. **The work required for this course can be completed within this expected amount of time, if that time is without distraction**. If monitoring your phone/device is distracting you from getting your work done then you may consider the aid of apps (e.g., [Forest](https://www.forestapp.cc/)) designed to reduce distractions from devices.[^DistractionAids]  
 
 If you feel that you are spending too much time on some assignments or preparations, then start your work earlier so that you can stop (and do other things) and make plans to [seek help](#assistance)).
 
@@ -159,7 +161,7 @@ In accordance with Title IX and other local, state, and federal laws, Northland 
 I am not a confidential resource. As a College employee I am considered a mandatory reporter and am required to report incidents of sexual- and gender-based discrimination and sexual misconduct to the Title IX Coordinator, as we want to ensure that you are connected with the campus support resources offered by the College. To learn more, please visit the [Northland College Title IX website](https://my.northland.edu/life/titleix/){:target="_blank"}.
 
 ### COVID-19 Statement
-As you are aware, the circumstances surrounding COVID-19 are ever-changing. Thus, it is possible that the college may make decisions that will affect how this course is administered. In addition, you may miss some class periods out of an abundance of caution if you are ill. I have designed the course to "work" whether we are face-to-face, remote, or somewhere in between. If you should have to miss class for any reason, please e-mail me promptly to explain to me your situation. I will work with you to help you stay up with class material as best as possible. If face-to-face classes are canceled then I will communicate with you promptly about how we will continue with class. **Communication will be key to stay abreast of the current situation and how it relates to our class ... so please keep me informed of your circumstances and regularly monitor your Northland e-mail.**
+As you are aware, the circumstances surrounding COVID-19 are ever-changing. Thus, it is possible that the college may make decisions that will affect how this course is administered. In addition, you may miss some class periods out of an abundance of caution if you are ill. If you should have to miss class for any reason, please e-mail me promptly to explain to me your situation. I will work with you to help you stay up with class material as best as possible. If face-to-face classes are canceled then I will communicate with you promptly about how we will continue with class. **Communication will be key to stay abreast of the current situation and how it relates to our class ... so please keep me informed of your circumstances and regularly monitor your Northland e-mail.**
 
 It is my hope that we can maintain a face-to-face classroom for the entire session. You can help with this by doing the following things related to our class.
 
@@ -176,6 +178,6 @@ It is my hope that we can maintain a face-to-face classroom for the entire sessi
 
 [^email]: While I am pretty open-minded and not much of a stickler when it comes to e-mail etiquette, some professors are. And it is always better to send an appropriate rather than an inappropriate e-mail. [Here](https://www.scribendi.com/advice/how_to_email_a_professor.en.html) and [here](https://www.insidehighered.com/views/2015/04/16/advice-students-so-they-dont-sound-silly-emails-essay) are some good suggestions for e-mailing professors.
 
-[^time]: As a general rule-of-thumb, you are expected to spend 2-3 hours of time outside of class for each hour in class. General advice for how much time should be spent outside of class for each hour inside of class can be found, among many, [here](https://www.collegeparentcentral.com/2010/02/is-your-college-student-investing-enough-time-studying/){:target="_blank"}, [here](http://classroom.synonym.com/ratio-studying-class-time-college-1075.html){:target="_blank"}, [here](https://www.usu.edu/asc/studysmart/pdf/estimating_study_hours.pdf){:target="_blank"}, and [here](http://collegelife.about.com/od/academiclife/f/How-Much-Time-Should-I-Spend-Studying-In-College.htm){:target="_blank"}.
+[^studytime]: As a general rule-of-thumb, you are expected to spend 2-3 hours of time outside of class for each hour in class. General advice for how much time should be spent outside of class for each hour inside of class can be found, among many, [here](https://www.collegeparentcentral.com/2010/02/is-your-college-student-investing-enough-time-studying/){:target="_blank"}, [here](http://classroom.synonym.com/ratio-studying-class-time-college-1075.html){:target="_blank"}, [here](https://www.usu.edu/asc/studysmart/pdf/estimating_study_hours.pdf){:target="_blank"}, and [here](http://collegelife.about.com/od/academiclife/f/How-Much-Time-Should-I-Spend-Studying-In-College.htm){:target="_blank"}.
 
 [^DistractionAids]: Also see the following resources for other apps that may help you eliminate distractions from your devices ... [here](https://georgehalachev.com/2019/01/15/7-apps-that-will-help-you-beat-procrastination/){:target="_blank"}, [here](https://www.careercontessa.com/advice/best-apps-chronic-procrastinator/){:target="_blank"}, [here](https://highschoolhints.com/6-apps-that-will-stop-your-procrastinating/){:target="_blank"}, or [here](https://remotebliss.com/procrastination-apps/){:target="_blank"}.

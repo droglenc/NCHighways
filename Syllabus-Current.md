@@ -17,7 +17,7 @@ Thus, your start at Northland is a unique moment of your journey. In this course
 
 * Course -- [Time & Location](time-and-location), [Description](#course-description), [Learning Outcomes](#intended-learning-outcomes)
 * Assistance -- [Instructor](#instructor), [Student Mentor](#student-mentor), [Accommodations](#accommodations), [Academic Alerts](#academic-alerts)
-* [Grading](#grading) -- [Engagement](#engagement), [Assignments](#in--class-and-out--of--class-assignments), [Final Reflection](#final-reflection), [Attendance](#attendance), [Incomplete Grades](#incomplete-grades)
+* [Grading](#grading) -- [Engagement](#engagement), [Assignments](#in--class-and-out--of--class-assignments), [Final Paper](#final-paper), [Attendance](#attendance), [Incomplete Grades](#incomplete-grades)
 * Environment -- [Classroom Conduct and Academic Integrity](#classroom-conduct-and-academic-integrity), [Work Outside of Class](#work-outside-of-class), [Title IX Statement](#title-ix-statement), [COVID-19 Statement](#covid-19-statement)
 
 ----
@@ -71,15 +71,16 @@ Further note as your Highways instructor I may receive Academic Alerts about you
 ----
 
 ## Grading
-Your grade in this course will be based on your attendance, in-class engagement, and performance on exercise assignments, which will be combined according to the following weights:
+Your grade in this course will be based on your attendance, in-class engagement, and performance on exercise assignments and a final paper. These assessments will be combined according to the following weights to calculate a final grade.
 
-<table class="tg" width="50%">
+<table class="tg" width="60%">
 <tr><td width="25%">Item</td>
-<td width="37.5%">Engagement</td>
-<td width="37.5%">Exercises</td>
+<td width="25%">Engagement</td>
+<td width="25%">Exercises</td>
+<td width="25%">Final Paper</td>
 </tr>
 <tr><td>Weight</td>
-<td>50%</td><td>50%</td></tr>
+<td>45%</td><td>45%</td><td>10%</td></tr>
 </table>
 
 Your letter grade will be assigned from your overall percentage (rounded to a whole number) and the table below. However, note the [attendance policy](#attendance) below.
@@ -132,6 +133,9 @@ I will assess your engagement at the end of each class period with the following
 
 ### Exercises
 Each module will have an associated written exercise, details for which will be given when the exercise is assigned. Exercises should be typed and printed to hand in at the beginning of the class period when it is due.
+
+### Final Paper
+The final paper will consist of you writing two letters to yourself, one to your high school self and one to your future self. Specific details will be provided in the [final module](12_Final).
 
 ### Incomplete Grades
 An incomplete grade will be given ONLY under extreme circumstances beyond your control, such as a major illness, and will ONLY be given if you have successfully completed the entire course except for the final exam. This is in accordance with [Northland College policy](https://my.northland.edu/student-policies/academic-policies/#grades){:target="_blank"} (scroll down to "Incomplete Grades").

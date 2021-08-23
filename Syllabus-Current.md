@@ -9,9 +9,9 @@ css: /css/syllabus.css
   <p align="center">IDS111 Northland Highways<br> <br>Syllabus<br><br></p>
 </div>
 
-Northland's motto is "A highway shall be there." While this saying has [biblical origins](https://www.biblegateway.com/passage/?search=Isaiah+35%3A8-10&version=KJV) and has been interpreted in different ways over the years, I prefer to think of this "highway" as your "life's path." Your time at Northland is just one part of your life's path but the small steps you take in your time here here may greatly impact the "highway" you travel after graduation.
+The Northland motto is "**A highway shall be there**." While this saying has [biblical origins](https://www.biblegateway.com/passage/?search=Isaiah+35%3A8-10&version=KJV) and has been interpreted in different ways over the years, I prefer to think of this "highway" as your "life's path." Your time at Northland is just one part of your life's path but the small steps you take in your time here may greatly impact the "highway" you travel after graduation.
 
-Thus, your start at Northland is a unique moment along your journey. The main goal for this course is for April and I to help you get started on that journey. Our objective is to provide a safe, open, and inclusive learning environment for you to ask questions; learn about Northland, the community, and college in general; and explore what a successful journey at Northland looks like for you. Please explore the syllabus below and the course modules for specific objectives to help reach this goal.
+Thus, your start at Northland is a unique moment along your journey. The main goal for this course is for April and I to help you get started on that journey. Our objective is to provide a safe, open, and inclusive learning environment for you to ask questions; learn about Northland, the community, and college in general; and explore what a successful journey at Northland looks like for you. Please explore the syllabus below and the [course modules](modules) for specific objectives to help reach this goal.
 
 &nbsp;
 

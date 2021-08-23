@@ -10,14 +10,14 @@ title:
 <table width="100%">
 <tr><th width="18%">Date</th><th width="82%">Module</th></tr>
 
-<tr><th>2-Sep</th><td><a href="modules/">First Steps</a></td></tr>
+<tr><th>2-Sep</th><td><a href="modules/First_Steps">First Steps</a></td></tr>
 <tr><th>9-Sep</th><td><a href="modules/">Side Roads</a></td></tr>
 <tr><th>16-Sep</th><td><a href="modules/">Staying on Track</a></td></tr>
 <tr><th>23-Sep</th><td><a href="modules/Careers">Where Am I Going?</a></td></tr>
 <tr><th>30-Sep</th><td><a href="modules/">Close to Home</a></td></tr>
 <tr><th>7-Oct</th><td><a href="modules/">Bigger Picture</a></td></tr>
-<tr><th>14-Oct</th><td><a href="modules/">Navigating Graduation Requirements I</a></td></tr>
-<tr><th>21-Oct</th><td><a href="modules/"><a href="modules/Advising">Navigating Graduation Requirements I</a></td></tr>
+<tr><th>14-Oct</th><td><a href="modules/Advising">Navigating Graduation Requirements I</a></td></tr>
+<tr><th>21-Oct</th><td><a href="modules/Advising">Navigating Graduation Requirements II</a></td></tr>
 <tr><th>28-Oct</th><td></a></td></tr>
 <tr><th>4-Nov</th><td><a href="modules/">Even Bigger Picture</a></td></tr>
 <tr><th>11-Nov</th><td><a href="modules/">XXX</a></td></tr>

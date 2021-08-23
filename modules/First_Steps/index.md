@@ -5,10 +5,10 @@ css: /css/modules.css
 ---
 
 <div class="panel-group">
-  <div class="panel panel-primary">
+  <div class="panel panel-warning">
     <div class="panel-heading">How College is Different and Setting Goals</div>
     <div class="panel-body">Becoming a college student is a profound accomplishment. It required hard work, dedication, and your commitment to finish high school, select a college, apply, enroll, and show up on day one. You should be very proud of getting this far! However, you also need to understand the many ways in which a college education differs from high school. College demands a higher level of independence, discipline, organization, cognition, and application of learning. In particular, a liberal arts education will require you to think critically and develop an interdisciplinary approach that integrates information from a variety of subject areas into a more comprehensive way of understanding the world. The purpose of this unit is to lay the groundwork for college-level academic expectations to help you acclimate to the experience of higher education and to be successful in your academic endeavors.
-<br>
+<br><br>
 After completing this module, you should be able to ...
 
 <ol>

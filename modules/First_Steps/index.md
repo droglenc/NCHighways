@@ -20,7 +20,7 @@ After completing this module, you should be able to ...
   </div>
 </div>
 
-----
+&nbsp;
 
 ## Preparation for Class
 Please prepare for class by doing the following PRIOR to class.
@@ -29,6 +29,8 @@ Please prepare for class by doing the following PRIOR to class.
 * Read [Chapter 1](College Rules_Chapter 1.pdf) in *College Rules* (pwd is "Highways").
 * Read "How College Is Different" [handout](How is College Different from High School (Ogle).docx). Identify one item in each major grouping that stands out to you (i.e., you think it is especially important, you were surprised by it, you have questions about it, you don't agree with it, etc.)
 
+&nbsp;
+
 ## Class Work
 We will do the following during class.
 
@@ -36,6 +38,8 @@ We will do the following during class.
 * Discuss "stand out" items from the "How College Is Different" handout (see preparation above).
 * Discuss questions or concerns from your first (partial) week at Northland.
 * Introduce "Goals and Expectations" [worksheet](Goals and Expectations (Ogle).docx). **Due at start of next class period.**
+
+&nbsp;
 
 ## After Class Assignment
 You should complete the following before the beginning of the next class period.

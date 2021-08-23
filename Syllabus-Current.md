@@ -73,11 +73,11 @@ Further note as your Highways instructor I may receive Academic Alerts about you
 ## Grading
 Your grade in this course will be based on your attendance, in-class engagement, and performance on exercise assignments and a final paper. These assessments will be combined according to the following weights to calculate a final grade.
 
-<table class="tg" width="60%">
-<tr><td width="25%">Item</td>
+<table class="tg" width="70%">
+<tr><td width="20%">Item</td>
 <td width="25%">Engagement</td>
 <td width="25%">Exercises</td>
-<td width="25%">Final Paper</td>
+<td width="30%">Final Paper</td>
 </tr>
 <tr><td>Weight</td>
 <td>45%</td><td>45%</td><td>10%</td></tr>

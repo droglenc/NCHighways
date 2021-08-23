@@ -18,7 +18,7 @@ title:
 <tr><th>7-Oct</th><td><a href="modules/">Bigger Picture</a></td></tr>
 <tr><th>14-Oct</th><td><a href="modules/Advising">Navigating Graduation Requirements I</a></td></tr>
 <tr><th>21-Oct</th><td><a href="modules/Advising">Navigating Graduation Requirements II</a></td></tr>
-<tr><th>28-Oct</th><td></a></td></tr>
+<tr><th>28-Oct</th><td><a href="modules/"></a></td></tr>
 <tr><th>4-Nov</th><td><a href="modules/">Even Bigger Picture</a></td></tr>
 <tr><th>11-Nov</th><td><a href="modules/">XXX</a></td></tr>
 <tr><th>18-Nov</th><td><a href="modules/">XXX</a></td></tr>

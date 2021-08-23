@@ -49,13 +49,14 @@ In this course you will ...
 
 ### Instructor
 <img class="img-right" src="img/DerekOgle1.jpg">
-I will answer to "Derek", "Doctor Ogle", "Professor Ogle", or "Doctor Professor Ogle, Sir" ... whichever you prefer. &#x1F600;
+I will answer to "Derek", "Doctor Ogle", "Professor Ogle", or "Doctor Professor Ogle, Sir" ... whichever you prefer. &#x1F600; My preferred pronouns are he/him.
 
-I am committed to your doing well in this course and more broadly at Northland College. As such, I see it as my responsibility to help you as much as possible both in and out of the designated class period. Thus, you may call (715-682-1300) or e-mail (<a href="mailto:dogle@northland.edu">dogle@northland.edu</a>)[^email] with questions or to set up an in-person or virtual visit for help. Finally, you may send me <a href="https://www.surveymonkey.com/r/BKYXG2V" target="_blank">anonymous feedback, suggestions, or questions</a>. Please don't hesitate to see or contact me if you have any questions, concerns, or issues.
+I am committed to your doing well in this course and more broadly at Northland College. As such, I see it as my responsibility to help you as much as possible both in and out of the designated class period. Thus, you may call (715-682-1300) or [e-mail](mailto:dogle@northland.edu)[^email] with questions or to set up an in-person or virtual visit for help. Finally, you may send me <a href="https://www.surveymonkey.com/r/BKYXG2V" target="_blank">anonymous feedback, suggestions, or questions</a>. Please don't hesitate to see or contact me if you have any questions, concerns, or issues.
 
 ### Student Mentor
-<img class="img-right" src="img/XXX.jpg">
-In addition, April Shipley-Mellon will serve as a teaching assistant for this course. April .... Please feel free to e-mail April at <a href="mailto:XXX@myemail.northland.edu">XXX@myemail.northland.edu</a> if you have questions or need help.
+<img class="img-right" src="img/ASM.jpg">
+In addition, April Shipley-Mellon will serve as a teaching assistant for this course.
+April (she/her) is in her third year here at Northland! After a long last school year, I headed back home to Saugatuck, MI and had a relaxing summer hanging out with family, friends, and five dogs. I am excited to be back in Ashland and continue pursuing my degree in Natural Resources. Having spent much of my childhood outdoors and around Lake Michigan, I developed a love for nature which was soon met with a passion for conserving our precious resources for future generations. The small size and drive for sustainability made Northland an easy choice for me. I am excited to help guide you through your first semester and I hope you fall in love with Northland just as I did. Please feel free to [reach out to me]("mailto:shipla671@myemail.northland.edu) with questions or concerns any time!
 
 ### Accommodations
 I want to create an inclusive and accessible learning environment for those of you that have a reason (e.g., attention, learning, vision, hearing, mental, physical, or other health-related concern) that may require special accommodations. *If you have already established accommodations* with the Office of Accessibility Resources (OAR), please communicate your approved accommodations to me as soon as possible so that we can discuss your needs in this course. If you have a condition that requires accommodations but *you have not yet established services* through OAR, then you should contact the Accommodations Specialist as soon as possible (<a href="mailto:accommodations@northland.edu">accommodations@northland.edu</a>).

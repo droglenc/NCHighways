@@ -23,10 +23,10 @@ After completing this module, you should be able to ...
 ## Preparation for Class
 Read the following PRIOR to class and be prepared to provide arguments for the benefits of being involved in "extracurricular" activities.
 
-* ["The Importance of Community Participation"](The importance of community participation.pdf)
-* ["Are Extracurricular Activities in College Important?"](https://www.bachelorsdegreecenter.org/are-extracurricular-activities-in-college-important/)
+* [The Importance of Community Participation](The importance of community participation.pdf)
+* [Are Extracurricular Activities in College Important?](https://www.bachelorsdegreecenter.org/are-extracurricular-activities-in-college-important/)
 * [How to Get Involved in Campus Activities](https://thebestschools.org/magazine/how-to-get-involved-in-campus-activities/)
-* ["The 5 Types of School Clubs Every Student Should Join"](https://www.collegefashion.net/college-life/types-of-school-clubs-every-student-should-join/)
+* [The 5 Types of School Clubs Every Student Should Join](https://www.collegefashion.net/college-life/types-of-school-clubs-every-student-should-join/)
 
 ## Class Work
 We will do the following during class.

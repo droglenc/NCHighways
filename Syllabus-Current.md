@@ -6,7 +6,7 @@ css: /css/syllabus.css
 ---
 
 <div class="main-explain-area jumbotron">
-  <p align="center">IDS111 Northland Highways<br> <br>Syllabus<br><br></p>
+  <p align="center">IDS111 Northland Highways<br><br>Syllabus<br><br></p>
 </div>
 
 The Northland motto is "**A highway shall be there**." This saying has [biblical origins](https://www.biblegateway.com/passage/?search=Isaiah+35%3A8-10&version=KJV), but I prefer to think of this "highway" as your "life's path." Your time at Northland is one part of your life's path but the steps you take here can greatly impact the direction of your "highway."

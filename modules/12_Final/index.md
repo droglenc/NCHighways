@@ -6,7 +6,7 @@ css: /css/modules.css
 
 <div class="panel-group">
   <div class="panel panel-primary">
-    <div class="panel-heading">Working With Career Services on Campus</div>
+    <div class="panel-heading">Reflecting on Your First Semester</div>
     <div class="panel-body">You have (almost) reached the end of your first semester of college. Now is a good time to both look back to see how far you have come and to look forward to see where you are headed and to make adjustments if necessary. In this module, you are asked to formally do both of these things are the final assignment for your *Highways* course.
     </div>
   </div>

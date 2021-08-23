@@ -11,8 +11,8 @@ title:
 <tr><th width="18%">Date</th><th width="82%">Module</th></tr>
 
 <tr><th>2-Sep</th><td><a href="modules/First_Steps">First Steps</a></td></tr>
-<tr><th>9-Sep</th><td><a href="modules/">Side Roads</a></td></tr>
-<tr><th>16-Sep</th><td><a href="modules/">Staying on Track</a></td></tr>
+<tr><th>9-Sep</th><td><a href="modules/Side_Roads">Side Roads</a></td></tr>
+<tr><th>16-Sep</th><td><a href="modules/Guardrails">Guardrails</a></td></tr>
 <tr><th>23-Sep</th><td><a href="modules/Careers">Where Am I Going?</a></td></tr>
 <tr><th>30-Sep</th><td><a href="modules/">Close to Home</a></td></tr>
 <tr><th>7-Oct</th><td><a href="modules/">Bigger Picture</a></td></tr>

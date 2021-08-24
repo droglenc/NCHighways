@@ -19,7 +19,7 @@ title:
 <tr><th>14-Oct</th><td><a href="modules/08_Advising">Reading the Map I</a></td></tr>
 <tr><th>21-Oct</th><td><a href="modules/09_Advising">Reading the Map II</a></td></tr>
 <tr><th>28-Oct</th><td><a href="modules/Climate">Even Bigger Picture</a></td></tr>
-<tr><th>4-Nov</th><td><a href="modules/Pathways">Northland Pathways</a></td></tr>
+<tr><th>4-Nov</th><td><a href="modules/Pathways">Off the Beaten Path</a></td></tr>
 <tr><th>11-Nov</th><td><a href="modules/Wellness">Keep Moving</a></td></tr>
 <tr><th>18-Nov</th><td><a href="modules/12_Final">Rearview Mirror</a></td></tr>
 <tr><th>25-Nov</th><td>Thanksgiving (No Class)</td></tr>

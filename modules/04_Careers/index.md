@@ -14,7 +14,7 @@ After completing this module, you should be able to ...
 <ol>
   <li>Identify services provided by the office of Career Services at Northland;</li>
   <li>Create a profile on Handshake that can be used to find on- and off-campus employment and internship opportunities; and</li>
-  <li>Identify your own areas of strength and interests. </li>
+  <li>Identify your own areas of strength and interests.</li>
 </ol>
     </div>
   </div>
@@ -24,6 +24,7 @@ After completing this module, you should be able to ...
 
 ## Preparation for Class (<span style="font-size:smaller; color:SteelBlue;">Do BEFORE Class</span>)
 
+* **WE WILL MEET IN WHEELER 110** for this class period.
 * Reflect on the results of past career or interest inventories you have completed.
 * Prepare to bring a laptop, tablet, or smartphone to the class period to complete activities directed by the guest speaker.
 

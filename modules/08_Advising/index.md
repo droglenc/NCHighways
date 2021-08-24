@@ -29,8 +29,6 @@ After completing this module, you should be able to ...
     * Goto the [College Catalog](http://catalog.northland.edu/){:target="_blank"} ... select "Majors and Minors" on the left ... scroll down to find and select your major ... select the printer icon in the upper-right (which will open a new window; [here is an example for History](http://catalog.northland.edu/preview_program.php?catoid=21&poid=1684&print){:target="_blank"}) ... select "Print This Page"
 * Also print the requirements for any minors that you are interested in.
 
-&nbsp;
-
 ## In-Class Work
 
 * Discuss [Northland's Graduation Requirements](https://docs.google.com/presentation/d/1E2YLedjnlgkPj49P8IdWdOvuw8gq3nRaM5OO9I-wutk/edit?usp=sharing){:target="_blank"}.
@@ -39,8 +37,6 @@ After completing this module, you should be able to ...
     * [Graduation Requirements Checklist](https://drive.google.com/file/d/12kaIg4_m-SCiefAxFxzSz0DyWq31k9KX/view?usp=sharing){:target="_blank"}
     * [Course Rotations List](https://my.northland.edu/academics/#rotations){:target="_blank"}
     * Courses that Meet LEES Categories -- [webpage](http://catalog.northland.edu/preview_program.php?catoid=21&poid=1653){:target="_blank"} or [master list](https://my.northland.edu/wp-content/uploads/sites/2/2021/04/LEES-for-AY-2021-ALL.pdf){:target="_blank"}
-
-&nbsp;
 
 ## After Class Assignment
 

@@ -11,9 +11,11 @@ css: /css/modules.css
 <br><br>
 After completing this module, you should be able to ...
 <ol>
-  <li>Locate and understand all graduation requirements.</li>
-  <li>Locate and understand the requirements for the Liberal Education for the Environment and Society (LEES) curriculum.</li>
-  <li>Locate and understand the requirements for a major (or majors and minors) that interest you.</li>
+  <li>Articulate Northland College’s mission</li>
+  <li>List three main graduation requirements</li>
+  <li>List four main categories in the LEES curriculum</li>
+  <li>Show how to find courses that fit the LEES categories</li>
+  <li>Show how to find courses required for a major (of interest)</li>
 </ol>
     </div>
   </div>
@@ -25,19 +27,19 @@ After completing this module, you should be able to ...
 Please prepare for class by doing the following PRIOR to class.
 
 * Print the requirements for a major or two that you are interested in.
-    * Goto the [College Catalog](http://catalog.northland.edu/){:target="_blank"} ... select "Majors and Minors" on the left ... scroll down to find and select your major ... select the printer icon in the upper-right (which will open a new window; [here is an example for History](catalog.northland.edu/preview_program.php?catoid=19&poid=1355&print){:target="_blank"}) ... select "Print This Page"
+    * Goto the [College Catalog](http://catalog.northland.edu/){:target="_blank"} ... select "Majors and Minors" on the left ... scroll down to find and select your major ... select the printer icon in the upper-right (which will open a new window; [here is an example for History](http://catalog.northland.edu/preview_program.php?catoid=21&poid=1684&print){:target="_blank"}) ... select "Print This Page"
 * Also print the requirements for any minors that you are interested in.
 
 ## Class Work
 We will do the following during class.
 
-* [Navigating Graduation Requirements](https://docs.google.com/presentation/d/1T1IV7vCAWLpCfDuvLsnmubMo22W-LBOcM5apTCFzHL8/edit?usp=sharing){:target="_blank"}.
-* Building a Four-Year Plan.
+* [Navigating Graduation Requirements](https://docs.google.com/presentation/d/1E2YLedjnlgkPj49P8IdWdOvuw8gq3nRaM5OO9I-wutk/edit?usp=sharing){:target="_blank"}.
+* Begin to build a Four-Year Plan.
 
 ## After Class Assignment
 You should complete the following to hand in at the beginning of the next class period.
 
-* Do class preparation for [next module](../Careers).
+* Do class preparation for next module.
 
 &nbsp;
 
@@ -45,10 +47,10 @@ You should complete the following to hand in at the beginning of the next class 
 
 * [College Catalog](http://catalog.northland.edu/){:target="_blank"}
 * [Graduation Requirements Checklist](https://drive.google.com/drive/folders/1eaA8aWJXFmXrYw_lBLU_lWCQ44vvNfr8){:target="_blank"}
-* [Course Rotations List](https://my.northland.edu/registration/register/course-rotations/)
-* [Courses that Meet LEES Categories](https://my.northland.edu/registration/how-to-register/general-education/#17after)
-* [Course Search](http://my.northland.edu/registration/register/course-schedule/)
-* [Registration Instructions](https://my.northland.edu/registration/how-to-register/registration-instructions/)
+* [Course Rotations List](https://my.northland.edu/academics/#rotations)
+* Courses that Meet LEES Categories -- [webpage](http://catalog.northland.edu/preview_program.php?catoid=21&poid=1653) or [list in a pdf](https://my.northland.edu/wp-content/uploads/sites/2/2021/04/LEES-for-AY-2021-ALL.pdf)
+* [Course Search](https://my.northland.edu/academics/schedule/course-schedule/)
+* [Registration Instructions](https://my.northland.edu/academics/#reg-howto)
 
 
 ----

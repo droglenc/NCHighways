@@ -20,8 +20,9 @@ After completing this module, you should be able to ...
 
 &nbsp;
 
-## Preparation for Class
-Read the following PRIOR to class and be prepared to provide arguments for the benefits of being involved in "extracurricular" activities.
+## Preparation for Class (<span style="font-size:smaller; color:SteelBlue;">Do BEFORE Class</span>)
+
+Prepared to provide arguments for the benefits of being involved in "extracurricular" activities by reading the following items.
 
 * [The Importance of Community Participation](The importance of community participation.pdf)
 * [Are Extracurricular Activities in College Important?](https://www.bachelorsdegreecenter.org/are-extracurricular-activities-in-college-important/)
@@ -30,8 +31,7 @@ Read the following PRIOR to class and be prepared to provide arguments for the b
 
 &nbsp;
 
-## Class Work
-We will do the following during class.
+## In-Class Work
 
 * "Getting Involved" Discussion
 * Start the "What is Your Plan for Getting Involved" [worksheet](What is your plan for getting involved (Ogle).docx).
@@ -39,8 +39,7 @@ We will do the following during class.
 &nbsp;
 
 ## After Class Assignment
-You should complete the following items.
 
-* Complete the "What is Your Plan for Getting Involved" worksheet (see above). **Due next class period.**
-* Attend a campus or community event or activity and complete [this reflection](Campus Activity Attendance and Reflection (Ogle).docx). **Due on or before 30-Sep.**
+* Complete the "What is Your Plan for Getting Involved" worksheet (see above). <span style="color:Maroon; font-weight:bold;">Due next class period.</span>
+* Attend a campus or community event or activity and complete [this reflection](Campus Activity Attendance and Reflection (Ogle).docx). <span style="color:Maroon; font-weight:bold;">Due on or before 30-Sep.</span>
 * Do class preparation for the next module.

@@ -14,17 +14,13 @@ css: /css/modules.css
 
 &nbsp;
 
-## Preparation for Class
+## Preparation for Class (<span style="font-size:smaller; color:SteelBlue;">Do BEFORE Class</span>)
 
 * Reflect on back on this first semester with respect to the items we have discussed in this class (academic, extracurricular, personal, and career goals).
 * Think forward about your goals for next semester and beyond.
 
 &nbsp;
 
-## Class Work
-Begin [this assignment](Final Reflection (Ogle).docx). **This is due via e-mail to me on or before 29-Nov.**
+## In-Class Work
 
-&nbsp;
-
-## After Class Assignment
-Nothing! This is the end of the semester.
+* Begin [this assignment](Final Reflection (Ogle).docx). <span style="color:Maroon; font-weight:bold;">Due via e-mail to me on or before 29-Nov.</span>

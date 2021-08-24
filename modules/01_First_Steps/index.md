@@ -22,8 +22,7 @@ After completing this module, you should be able to ...
 
 &nbsp;
 
-## Preparation for Class
-Please prepare for class by doing the following PRIOR to class.
+## Preparation for Class (<span style="font-size:smaller; color:SteelBlue;">Do BEFORE Class</span>)
 
 * Read the course [syllabus](../../Syllabus-Current).
 * Read [Chapter 1](College Rules_Chapter 1.pdf) in *College Rules* (pwd is "Highways").
@@ -31,8 +30,7 @@ Please prepare for class by doing the following PRIOR to class.
 
 &nbsp;
 
-## Class Work
-We will do the following during class.
+## In-Class Work
 
 * Discuss [syllabus](../../Syllabus-Current) and class expectations.
 * Discuss "stand out" items from the "How College Is Different" handout (see preparation above).
@@ -42,9 +40,6 @@ We will do the following during class.
 &nbsp;
 
 ## After Class Assignment
-You should complete the following before the beginning of the next class period.
 
-* Finish the "Goals and Expectations" worksheet (see above).
-* Do class preparation for [next module](../GetInvolved).
-
-----
+* Finish "Goals and Expectations" worksheet (see above). <span style="color:Maroon; font-weight:bold;">Due next class period.</span>
+* Do class preparation for next module.

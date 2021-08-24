@@ -23,8 +23,7 @@ After completing this module, you should be able to ...
 
 &nbsp;
 
-## Preparation for Class
-Please do the following PRIOR to class.
+## Preparation for Class (<span style="font-size:smaller; color:SteelBlue;">Do BEFORE Class</span>)
 
 * Print the requirements for a major or two that you are interested in.
     * Goto the [College Catalog](http://catalog.northland.edu/){:target="_blank"} ... select "Majors and Minors" on the left ... scroll down to find and select your major ... select the printer icon in the upper-right (which will open a new window; [here is an example for History](http://catalog.northland.edu/preview_program.php?catoid=21&poid=1684&print){:target="_blank"}) ... select "Print This Page"
@@ -32,8 +31,7 @@ Please do the following PRIOR to class.
 
 &nbsp;
 
-## Class Work
-We will do the following during class.
+## In-Class Work
 
 * Discuss [Northland's Graduation Requirements](https://docs.google.com/presentation/d/1E2YLedjnlgkPj49P8IdWdOvuw8gq3nRaM5OO9I-wutk/edit?usp=sharing){:target="_blank"}.
 * Begin to build a [Four-Year Plan](https://docs.google.com/spreadsheets/d/1_rdl3OCltNrI3EwALsRCvBLAhsQflNVx/edit?usp=sharing&ouid=107081804861686762583&rtpof=true&sd=true){:target="_blank"} using these resources:
@@ -45,4 +43,5 @@ We will do the following during class.
 &nbsp;
 
 ## After Class Assignment
-For the next class period you should complete as much of the four-year plan worksheet as you can or come with specific questions that you need answered to do so. In the next class period you will have time to briefly discuss your four-year plan with me and the student mentor.
+
+* Complete as much of the four-year plan worksheet as you can or develop specific questions that you need answered. In the next class period you will briefly discuss your draft four-year plan with me and the student mentor.

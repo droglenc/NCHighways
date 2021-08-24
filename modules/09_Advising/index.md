@@ -38,5 +38,5 @@ After completing this module, you should be able to ...
 
 ## After Class Assignment
 
-* Turn in your completed four-year plan worksheet.
+* Complete your four-year plan worksheet. <span style="color:Maroon; font-weight:bold;">Due next class period.</span>
 * Do class preparation for next module.

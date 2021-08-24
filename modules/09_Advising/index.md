@@ -21,7 +21,7 @@ After completing this module, you should be able to ...
 
 &nbsp;
 
-## Preparation for Class (<span style="font-size:smaller;">Do BEFORE Class</span>)
+## Preparation for Class (<span style="font-size:smaller; color:SteelBlue;">Do BEFORE Class</span>)
 
 * You should complete as much of the four-year plan worksheet (started last time) as you can or come with specific questions that you need answered to do so.
 * Bookmark/Favorite [this page](https://my.northland.edu/academics/#reg-howto){:target="_blank"}.

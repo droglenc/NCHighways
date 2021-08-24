@@ -6,10 +6,8 @@ css: /css/modules.css
 
 <div class="panel-group">
   <div class="panel panel-primary">
-    <div class="panel-heading">XXX</div>
-    <div class="panel-body">Finding Support Services and Resources at Northland
-<br><br>
-After completing this module, you should be able to ...
+    <div class="panel-heading">Finding Support Services and Resources at Northland</div>
+    <div class="panel-body">XXX
 <ol>
   <li>XXX</li>
 </ol>

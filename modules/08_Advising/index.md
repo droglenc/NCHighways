@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Reading the Map
+title: Reading the Map I
 css: /css/modules.css
 ---
 
@@ -35,26 +35,14 @@ Please do the following PRIOR to class.
 ## Class Work
 We will do the following during class.
 
-* [Navigating Graduation Requirements](https://docs.google.com/presentation/d/1E2YLedjnlgkPj49P8IdWdOvuw8gq3nRaM5OO9I-wutk/edit?usp=sharing){:target="_blank"}.
-* Begin to build a Four-Year Plan.
+* Discuss [Northland's Graduation Requirements](https://docs.google.com/presentation/d/1E2YLedjnlgkPj49P8IdWdOvuw8gq3nRaM5OO9I-wutk/edit?usp=sharing){:target="_blank"}.
+* Begin to build a [Four-Year Plan](https://docs.google.com/spreadsheets/d/1_rdl3OCltNrI3EwALsRCvBLAhsQflNVx/edit?usp=sharing&ouid=107081804861686762583&rtpof=true&sd=true){:target="_blank"} using these resources:
+    * [College Catalog](http://catalog.northland.edu/){:target="_blank"}
+    * [Graduation Requirements Checklist](https://drive.google.com/drive/folders/1eaA8aWJXFmXrYw_lBLU_lWCQ44vvNfr8){:target="_blank"}
+    * [Course Rotations List](https://my.northland.edu/academics/#rotations)
+    * Courses that Meet LEES Categories -- [webpage](http://catalog.northland.edu/preview_program.php?catoid=21&poid=1653) or [list in a pdf](https://my.northland.edu/wp-content/uploads/sites/2/2021/04/LEES-for-AY-2021-ALL.pdf)
 
 &nbsp;
 
 ## After Class Assignment
-You should complete the following to hand in at the beginning of the next class period.
-
-* Do class preparation for next module.
-
-&nbsp;
-
-## Resources
-
-* [College Catalog](http://catalog.northland.edu/){:target="_blank"}
-* [Graduation Requirements Checklist](https://drive.google.com/drive/folders/1eaA8aWJXFmXrYw_lBLU_lWCQ44vvNfr8){:target="_blank"}
-* [Course Rotations List](https://my.northland.edu/academics/#rotations)
-* Courses that Meet LEES Categories -- [webpage](http://catalog.northland.edu/preview_program.php?catoid=21&poid=1653) or [list in a pdf](https://my.northland.edu/wp-content/uploads/sites/2/2021/04/LEES-for-AY-2021-ALL.pdf)
-* [Course Search](https://my.northland.edu/academics/schedule/course-schedule/)
-* [Registration Instructions](https://my.northland.edu/academics/#reg-howto)
-
-
-----
+For the next class period you should complete as much of the four-year plan worksheet as you can or come with specific questions that you need answered to do so. In the next class period you will have time to briefly discuss your four-year plan with me and the student mentor.

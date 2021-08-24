@@ -22,17 +22,17 @@ After completing this module, you should be able to ...
 
 ## Preparation for Class (<span style="font-size:smaller; color:SteelBlue;">Do BEFORE Class</span>)
 
-Prepared to provide arguments for the benefits of being involved in "extracurricular" activities by reading the following items.
-
-* [The Importance of Community Participation](The importance of community participation.pdf){:target="_blank"}
-* [Are Extracurricular Activities in College Important?](https://www.bachelorsdegreecenter.org/are-extracurricular-activities-in-college-important/){:target="_blank"}
-* [How to Get Involved in Campus Activities](https://thebestschools.org/magazine/how-to-get-involved-in-campus-activities/){:target="_blank"}
-* [The 5 Types of School Clubs Every Student Should Join](https://www.collegefashion.net/college-life/types-of-school-clubs-every-student-should-join/){:target="_blank"}
+* Prepare to provide arguments for the benefits of being involved in "extracurricular" activities by reading the following items.
+    * [The Importance of Community Participation](The importance of community participation.pdf){:target="_blank"} [*~5 mins*]
+    * [Are Extracurricular Activities in College Important?](https://www.bachelorsdegreecenter.org/are-extracurricular-activities-in-college-important/){:target="_blank"} [*~4 mins*]
+    * [How to Get Involved in Campus Activities](https://thebestschools.org/magazine/how-to-get-involved-in-campus-activities/){:target="_blank"} [*~2 mins*]
+    * [Why Extracurricular Activities are so Important]https://mountainheightsacademy.org/why-extracurricular-activities-are-so-important/){:target="_blank"} [*~2 mins*]
+* Peruse ["Get Involved" oppoartunities](https://www.northland.edu/campus-life/get-involved/){:target="_blank"} at Northland.
 
 ## In-Class Work
 
 * "Getting Involved" Discussion
-* Start the "What is Your Plan for Getting Involved" [worksheet](What is your plan for getting involved (Ogle).docx){:target="_blank"}.
+* Start the "What is Your Plan for Getting Involved" [worksheet](What is your plan for getting involved (Ogle).docx).
 
 ## After Class Assignment
 

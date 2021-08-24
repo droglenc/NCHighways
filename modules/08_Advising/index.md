@@ -36,9 +36,9 @@ After completing this module, you should be able to ...
 * Discuss [Northland's Graduation Requirements](https://docs.google.com/presentation/d/1E2YLedjnlgkPj49P8IdWdOvuw8gq3nRaM5OO9I-wutk/edit?usp=sharing){:target="_blank"}.
 * Begin to build a [Four-Year Plan](https://docs.google.com/spreadsheets/d/1_rdl3OCltNrI3EwALsRCvBLAhsQflNVx/edit?usp=sharing&ouid=107081804861686762583&rtpof=true&sd=true){:target="_blank"} using these resources:
     * [College Catalog](http://catalog.northland.edu/){:target="_blank"}
-    * [Graduation Requirements Checklist](https://drive.google.com/drive/folders/1eaA8aWJXFmXrYw_lBLU_lWCQ44vvNfr8){:target="_blank"}
-    * [Course Rotations List](https://my.northland.edu/academics/#rotations)
-    * Courses that Meet LEES Categories -- [webpage](http://catalog.northland.edu/preview_program.php?catoid=21&poid=1653) or [list in a pdf](https://my.northland.edu/wp-content/uploads/sites/2/2021/04/LEES-for-AY-2021-ALL.pdf)
+    * [Graduation Requirements Checklist](https://drive.google.com/file/d/12kaIg4_m-SCiefAxFxzSz0DyWq31k9KX/view?usp=sharing){:target="_blank"}
+    * [Course Rotations List](https://my.northland.edu/academics/#rotations){:target="_blank"}
+    * Courses that Meet LEES Categories -- [webpage](http://catalog.northland.edu/preview_program.php?catoid=21&poid=1653){:target="_blank"} or [master list](https://my.northland.edu/wp-content/uploads/sites/2/2021/04/LEES-for-AY-2021-ALL.pdf){:target="_blank"}
 
 &nbsp;
 

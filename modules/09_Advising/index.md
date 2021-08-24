@@ -23,18 +23,14 @@ After completing this module, you should be able to ...
 
 ## Preparation for Class (<span style="font-size:smaller; color:SteelBlue;">Do BEFORE Class</span>)
 
-* You should complete as much of the four-year plan worksheet (started last time) as you can or come with specific questions that you need answered to do so.
+* Complete as much of the four-year plan worksheet (started last time) as you can or come with specific questions that you need answered to do so.
 * Bookmark/Favorite [this page](https://my.northland.edu/academics/#reg-howto){:target="_blank"}.
 * Make sure you know who your academic advisor is.
-
-&nbsp;
 
 ## In-Class Work
 
 * Discuss your four-year plan.
 * Discuss [Registration Advising meetings](https://docs.google.com/presentation/d/1T1IV7vCAWLpCfDuvLsnmubMo22W-LBOcM5apTCFzHL8/edit#slide=id.gc6f73a04f_0_0){:target="_blank"}.
-
-&nbsp;
 
 ## After Class Assignment
 

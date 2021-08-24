@@ -20,18 +20,22 @@ After completing this module, you should be able to ...
   </div>
 </div>
 
-----
+&nbsp;
 
 ## Preparation for Class
-Read do the following PRIOR to class.
+Please do the following PRIOR to class.
 
 * Reflect on the results of past career or interest inventories you have completed.
 * Prepare to bring a laptop, tablet, or smartphone to the class period to complete activities directed by the guest speaker.
+
+&nbsp;
 
 ## Class Work
 We will do the following during class.
 
 * Julie Winter, Student Career Advisor, will introduce Northland’s Career Services resources; demonstrate how to use Handshake (a program to help you find on- or off-campus work or internship positions); and introduce you to TypeFocus (an interactive program that assesses your interests and strengths, and introduces you to majors and careers that align with your interests).
+
+&nbsp;
 
 ## After Class Assignment
 You should complete the following items.

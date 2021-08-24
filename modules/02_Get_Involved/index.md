@@ -18,7 +18,7 @@ After completing this module, you should be able to ...
   </div>
 </div>
 
-----
+&nbsp;
 
 ## Preparation for Class
 Read the following PRIOR to class and be prepared to provide arguments for the benefits of being involved in "extracurricular" activities.
@@ -28,11 +28,15 @@ Read the following PRIOR to class and be prepared to provide arguments for the b
 * [How to Get Involved in Campus Activities](https://thebestschools.org/magazine/how-to-get-involved-in-campus-activities/)
 * [The 5 Types of School Clubs Every Student Should Join](https://www.collegefashion.net/college-life/types-of-school-clubs-every-student-should-join/)
 
+&nbsp;
+
 ## Class Work
 We will do the following during class.
 
 * "Getting Involved" Discussion
 * Start the "What is Your Plan for Getting Involved" [worksheet](What is your plan for getting involved (Ogle).docx).
+
+&nbsp;
 
 ## After Class Assignment
 You should complete the following items.

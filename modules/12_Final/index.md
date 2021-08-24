@@ -12,15 +12,19 @@ css: /css/modules.css
   </div>
 </div>
 
-----
+&nbsp;
 
 ## Preparation for Class
 
 * Reflect on back on this first semester with respect to the items we have discussed in this class (academic, extracurricular, personal, and career goals).
 * Think forward about your goals for next semester and beyond.
 
+&nbsp;
+
 ## Class Work
 Begin [this assignment](Final Reflection (Ogle).docx). **This is due via e-mail to me on or before 29-Nov.**
+
+&nbsp;
 
 ## After Class Assignment
 Nothing! This is the end of the semester.

@@ -13,7 +13,7 @@ After completing this module, you should be able to ...
 <ol>
   <li>Identify and describe one or more ways you feel connected to the landscape in the greater Ashland area.</li>
   <li>Describe the importance of connecting to place in the context of the broader college experience.</li>
-  <li>Use self-reflection as a tool for growth in their academic, social, and personal lives.</li>
+  <li>Use self-reflection as a tool for growth in your academic, social, and personal lives.</li>
 </ol>
     </div>
   </div>

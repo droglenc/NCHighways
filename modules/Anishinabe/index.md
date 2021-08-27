@@ -7,7 +7,7 @@ css: /css/modules.css
 <div class="panel-group">
   <div class="panel panel-primary">
     <div class="panel-heading">Some History and Perspective of Anishinabe near Northland</div>
-    <div class="panel-body">XXX
+    <div class="panel-body">Northland College is situated on the ancestral lands of the Anishinabe/Ojibwe people. Much of the lands near Northland College, but not all rights to hunt, fish, and gather on the lands, were ceded to the United States in a treaty negotiated in La Pointe (on Madeline Island) in 1842. To fully understand the history of Northland College it is important to understand the history and perspectives of the Anishinabe that were here before Northland and still contribute substantively to the Ashland and Northland communities. In this module, we briefly explore some of the history or perspectives (on a topic of interest) of the Anishinabe.
 <br><br>
 After completing this module, you should be able to ...
 <ol>
@@ -21,7 +21,9 @@ After completing this module, you should be able to ...
 
 ## Preparation for Class (<span style="font-size:smaller; color:SteelBlue;">Do BEFORE Class</span>)
 
-* xxx
+* Read [Mashkiiziibii Gaa-Pi-Inakamigak](http://www.badriver-nsn.gov/history/){:target="_blank"} (i.e., "Bad River History") [*~5 mins*]
+* Read [Mashkiiziibii Enaadizing](http://www.badriver-nsn.gov/culture/){:target="_blank"} (i.e., "Bad River Culture") [*~3 mins*]
+* Read [Ojibwe Treaty Rights](http://www.mpm.edu/plan-visit/educators/wirp/nations/ojibwe/treaty-rights){:target="_blank"} [*~8 mins*]
 
 ## In-Class Work
 

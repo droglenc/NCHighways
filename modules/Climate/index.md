@@ -7,7 +7,7 @@ css: /css/modules.css
 <div class="panel-group">
   <div class="panel panel-primary">
     <div class="panel-heading">Climate Change Perspectives</div>
-    <div class="panel-body">XXX
+    <div class="panel-body">The [Intergovernmental Panel on Climate Change](https://www.ipcc.ch/){:target="_blank"} (IPCC), representing 195 countries, recently released [a report assessing the science related to climate change](https://www.ipcc.ch/report/ar6/wg1/). National Public Radio (NPR) summarized the report as "Global climate change is accelerating and human-caused emissions of greenhouse gases are the overwhelming cause. There is still time to avoid catastrophic warming this century, but only if countries around the world stop burning fossil fuels as quickly as possible. The message to world leaders is more dire, and more unequivocal, than ever before." In this module we will introduce and discuss some basic concepts of climate change.
 <br><br>
 After completing this module, you should be able to ...
 <ol>
@@ -21,7 +21,8 @@ After completing this module, you should be able to ...
 
 ## Preparation for Class (<span style="font-size:smaller; color:SteelBlue;">Do BEFORE Class</span>)
 
-* xxx
+* Read XXX
+* Read [A Comment on Poor "Marketing" of Climate Change](Climate_Change_Marketing.jpg) [*~1 min*]
 
 ## In-Class Work
 

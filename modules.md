@@ -9,10 +9,9 @@ title:
 
 <table width="100%">
 <tr><th width="18%">Date</th><th width="82%">Module</th></tr>
-
 <tr><th>2-Sep</th><td><a href="modules/01_First_Steps">First Steps</a></td></tr>
-<tr><th>9-Sep</th><td><a href="modules/02_Get_Involved">Side Roads</a></td></tr>
-<tr><th>16-Sep</th><td><a href="modules/03_Help_Resources">Guardrails</a></td></tr>
+<tr><th>9-Sep</th><td><a href="modules/02_Side_Roads">Side Roads</a></td></tr>
+<tr><th>16-Sep</th><td><a href="modules/03_Guardrails">Guardrails</a></td></tr>
 <tr><th>23-Sep</th><td><a href="modules/04_Careers">Where Am I Going?</a></td></tr>
 <tr><th>30-Sep</th><td><a href="modules/Anishinabe">Close to Home</a></td></tr>
 <tr><th>7-Oct</th><td><a href="modules/Inequality">Bigger Picture</a></td></tr>

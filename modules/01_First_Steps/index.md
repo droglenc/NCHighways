@@ -24,18 +24,19 @@ After completing this module, you should be able to ...
 
 ## Preparation for Class (<span style="font-size:smaller; color:SteelBlue;">Do BEFORE Class</span>)
 
-* Read the course [syllabus](../../Syllabus-Current).
-* Read [Chapter 1](College Rules_Chapter 1.pdf) in *College Rules* (pwd is "Highways").
-* Read "How College Is Different" [handout](How is College Different from High School (Ogle).docx). Identify one item in each major grouping that stands out to you (i.e., you think it is especially important, you were surprised by it, you have questions about it, you don't agree with it, etc.)
+* Read the course [syllabus](../../Syllabus-Current). [*~10 mins*]
+* Read [Chapter 1](College Rules_Chapter 1.pdf) in *College Rules* (pwd is "Highways"). [*~15 mins*]
+* Read "How College Is Different" [handout](How is College Different from High School (Ogle).docx). [*~10 mins*]
+    * Identify at least one item in each major grouping that stands out to you (i.e., you think it is especially important, you were surprised by it, you have questions about it, you don't agree with it, etc.)
 
 ## In-Class Work
 
 * Discuss [syllabus](../../Syllabus-Current) and class expectations.
-* Discuss "stand out" items from the "How College Is Different" handout (see preparation above).
+* Discuss "stand out" items from the "How College Is Different" [handout](How is College Different from High School (Ogle).docx) (see preparation above).
 * Discuss questions or concerns from your first (partial) week at Northland.
-* Introduce "Goals and Expectations" [worksheet](Goals and Expectations (Ogle).docx). **Due at start of next class period.**
+* Introduce "Goals and Expectations" [worksheet](Goals and Expectations (Ogle).docx).
 
 ## After Class Assignment
 
-* Finish "Goals and Expectations" worksheet (see above). <span style="color:Maroon; font-weight:bold;">Due Friday 6pm on <a href="https://www.gradescope.com/courses/300162">GradeScope</a>.</span>
+* Complete "Goals and Expectations" [worksheet](Goals and Expectations (Ogle).docx). <span style="color:Maroon; font-weight:bold;">Due Friday 6pm on <a href="https://www.gradescope.com/courses/300162">GradeScope</a>.</span>
 * Do class preparation for next module.

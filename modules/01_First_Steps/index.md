@@ -40,4 +40,5 @@ After completing this module, you should be able to ...
 ## After Class Assignment
 
 * Complete "Goals and Expectations" [worksheet](Goals and Expectations (Ogle).docx). <span style="color:Maroon; font-weight:bold;">Due Friday 6pm on <a href="https://www.gradescope.com/courses/300162">GradeScope</a>.</span>
+* If possible, attend "Organizations and Clubs" fair.
 * Do class preparation for next module.

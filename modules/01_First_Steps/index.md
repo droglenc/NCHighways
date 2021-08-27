@@ -37,5 +37,5 @@ After completing this module, you should be able to ...
 
 ## After Class Assignment
 
-* Finish "Goals and Expectations" worksheet (see above). <span style="color:Maroon; font-weight:bold;">Due next class period.</span>
+* Finish "Goals and Expectations" worksheet (see above). <span style="color:Maroon; font-weight:bold;">Due Friday 6pm on <a href="https://www.gradescope.com/courses/300162">GradeScope</a>.</span>
 * Do class preparation for next module.

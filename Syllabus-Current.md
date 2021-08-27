@@ -132,7 +132,7 @@ I will assess your engagement at the end of each class period with the following
 </div>
 
 ### Exercises
-Each module will have an associated written exercise, details for which will be given when the exercise is assigned. Exercises should be typed and printed to hand in at the beginning of the class period when it is due.
+Each module will have an associated written exercise, details for which will be given when the exercise is assigned. Exercises will be handed in through [the class GradeScope page](https://www.gradescope.com/courses/300162). [Directions for setting up and using GradeScope are here](modules/01_First_Steps/Gradescope_Setup).
 
 ### Final Paper
 The final paper will consist of you writing two letters to yourself, one to your high school self and one to your future self. Specific details will be provided in the [final module](12_Final).

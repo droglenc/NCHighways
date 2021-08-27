@@ -26,7 +26,7 @@ After completing this module, you should be able to ...
     * [The Importance of Community Participation](The importance of community participation.pdf){:target="_blank"} [*~5 mins*]
     * [Are Extracurricular Activities in College Important?](https://www.bachelorsdegreecenter.org/are-extracurricular-activities-in-college-important/){:target="_blank"} [*~4 mins*]
     * [How to Get Involved in Campus Activities](https://thebestschools.org/magazine/how-to-get-involved-in-campus-activities/){:target="_blank"} [*~2 mins*]
-    * [Why Extracurricular Activities are so Important]https://mountainheightsacademy.org/why-extracurricular-activities-are-so-important/){:target="_blank"} [*~2 mins*]
+    * [Why Extracurricular Activities are so Important](https://mountainheightsacademy.org/why-extracurricular-activities-are-so-important/){:target="_blank"} [*~2 mins*]
 * Peruse ["Get Involved" oppoartunities](https://www.northland.edu/campus-life/get-involved/){:target="_blank"} at Northland.
 
 ## In-Class Work
@@ -36,6 +36,6 @@ After completing this module, you should be able to ...
 
 ## After Class Assignment
 
-* Complete the "What is Your Plan for Getting Involved" worksheet (see above). <span style="color:Maroon; font-weight:bold;">Due next class period.</span>
-* Attend a campus or community event or activity and complete [this reflection](Campus Activity Attendance and Reflection (Ogle).docx){:target="_blank"}. <span style="color:Maroon; font-weight:bold;">Due on or before 30-Sep.</span>
+* Complete the "What is Your Plan for Getting Involved" worksheet (see above). <span style="color:Maroon; font-weight:bold;">Due Friday 6pm on GradeScope.</span>
+* Attend a campus or community event or activity and complete [this reflection](Campus Activity Attendance and Reflection (Ogle).docx){:target="_blank"}. <span style="color:Maroon; font-weight:bold;">Due on or before 1-Oct at 6pm.</span>
 * Do class preparation for the next module.

@@ -14,7 +14,7 @@ After completing this module, you should be able to ...
 <ol>
   <li>Identify where to find academic assistance (e.g., library resources, tutoring)</li>
   <li>Identify where to find administrative assistance (e.g., finances, holds, meal plans, etc.)</li>
-  <li>Identify where to find assistance for stress and anxiety.
+  <li>Identify where to find assistance for stress and anxiety.</li>
 </ol>
     </div>
   </div>

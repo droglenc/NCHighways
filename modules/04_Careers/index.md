@@ -34,6 +34,6 @@ After completing this module, you should be able to ...
 
 ## After Class Assignment
 
-* Complete a profile on Handshake. <span style="color:Maroon; font-weight:bold;">Screen capture of your completed profile should be e-mailed to me before the next class period.</span>
-* Complete a TypeFocus inventory. <span style="color:Maroon; font-weight:bold;">Screen capture of your completed profile should be e-mailed to me before the next class period.</span>
+* Complete a profile on Handshake. <span style="color:Maroon; font-weight:bold;">Screen capture or picture of your completed profile should be put on <a href="https://www.gradescope.com/courses/300162">GradeScope</a> by next Wednesday 6pm.</span>
+* Complete a TypeFocus inventory. <span style="color:Maroon; font-weight:bold;">Screen capture or picture of your completed profile should be put on <a href="https://www.gradescope.com/courses/300162">GradeScope</a> by next Wednesday 6pm.</span>
 * Do class preparation for the next module.

@@ -36,6 +36,6 @@ After completing this module, you should be able to ...
 
 ## After Class Assignment
 
-* Complete the "What is Your Plan for Getting Involved" [worksheet](What is your plan for getting involved (Ogle).docx). <span style="color:Maroon; font-weight:bold;">Due Friday 6pm on GradeScope.</span>
-* Attend a campus or community event or activity and complete [this reflection](Campus Activity Attendance and Reflection (Ogle).docx){:target="_blank"}. <span style="color:Maroon; font-weight:bold;">Due on or before 1-Oct at 6pm.</span>
+* Complete the "What is Your Plan for Getting Involved" [worksheet](What is your plan for getting involved (Ogle).docx). <span style="color:Maroon; font-weight:bold;">Due Friday 6pm on <a href="https://www.gradescope.com/courses/300162">GradeScope</a>.</span>
+* Attend a campus or community event or activity and complete [this reflection](Campus Activity Attendance and Reflection (Ogle).docx){:target="_blank"}. <span style="color:Maroon; font-weight:bold;">Due on or before 1-Oct at 6pm on <a href="https://www.gradescope.com/courses/300162">GradeScope</a>.</span>
 * Do class preparation for the next module.

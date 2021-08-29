@@ -32,9 +32,9 @@ After completing this module, you should be able to ...
 
 ## In-Class Work
 
-* XXX
+* We will do a quick walking tour of campus to visit most buildings and to briefly discuss what resources are in each one. Please be prepared to briskly walk outside for ~50 minutes. You will also need a pencil or pen.
 
 ## After Class Assignment
 
-* XXX <span style="color:Maroon; font-weight:bold;">Due next class period.</span>
+* Complete the ["Walking Tour Questions" worksheet](Guardrails Walking Tour Questions (Ogle).docx) <span style="color:Maroon; font-weight:bold;">Due Friday 6pm on <a href="https://www.gradescope.com/courses/300162">GradeScope</a>.</span>
 * Do class preparation for next module.

@@ -13,7 +13,7 @@ title:
 <tr><th>9-Sep</th><td><a href="modules/02_Side_Roads">Side Roads</a></td></tr>
 <tr><th>16-Sep</th><td><a href="modules/03_Guardrails">Guardrails</a></td></tr>
 <tr><th>23-Sep</th><td><a href="modules/04_Careers">Where Am I Going?</a></td></tr>
-<tr><th>30-Sep</th><td></td><a href="modules/Wellness">XXKeep MovingXX</a></td></tr>
+<tr><th>30-Sep</th><td><a href="modules/Wellness">XXKeep MovingXX</a></td></tr>
 <tr><th>7-Oct</th><td><a href="modules/Inequality">Bigger Picture</a></td></tr>
 <tr><th>14-Oct</th><td><a href="modules/08_Advising">XXReading the Map IXX</a></td></tr>
 <tr><th>21-Oct</th><td><a href="modules/09_Advising">XXReading the Map IIXX</a></td></tr>

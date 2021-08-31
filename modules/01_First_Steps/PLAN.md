@@ -21,4 +21,4 @@ css: /css/modules.css
 1. Briefly explain "Goals and Expectations" worksheet [**5 mins**].
     * **HANDOUT**
     * **Due Friday 6pm** on GradeScope
-1. Announce that Clubs and Orgs fair is Friday 3-Sep. Attending would be useful for our work next week.
+1. Announce that Clubs and Orgs fair is Friday 3-Sep 4-630 on the mall or in the Ponzio. Attending would be useful for our work next week.

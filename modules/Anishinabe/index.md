@@ -25,6 +25,13 @@ After completing this module, you should be able to ...
 * Read [Mashkiiziibii Gaa-Pi-Inakamigak](http://www.badriver-nsn.gov/history/){:target="_blank"} (i.e., "Bad River History") [*~5 mins*]
 * Read [Mashkiiziibii Enaadizing](http://www.badriver-nsn.gov/culture/){:target="_blank"} (i.e., "Bad River Culture") [*~3 mins*]
 * Read [Ojibwe Treaty Rights](http://www.mpm.edu/plan-visit/educators/wirp/nations/ojibwe/treaty-rights){:target="_blank"} [*~8 mins*]
+* Watch two of the following videos.
+    * ["Lifting Nets: Gurnoe Decision"](https://youtu.be/ZmcdaUtLU1E){:target="_blank"} [*~5 mins*]
+    * ["Crossing the Line: Tribble Brothers"](https://youtu.be/KSpEGhWR44Q){:target="_blank"} [*~5 mins*]
+    * ["Place of the Pike: Ginoozhekaaning"](https://youtu.be/VBIzPnETBkQ){:target="_blank"} [*~7 mins*]
+    * ["Gathering the Pieces: The Jondreau Decision"](https://youtu.be/q5TmLyWyFM0){:target="_blank"} [*~7 mins*]
+    * ["Mikwendaagoziwag: They are Remembered"](https://youtu.be/JLig6Pv1b7Y){:target="_blank"} [*~6 mins*]
+    * ["The Sandy Lake Tragedy"](https://youtu.be/u6VaiLfy3CE){:target="_blank"} [*~28 mins*]
 
 ## In-Class Work
 

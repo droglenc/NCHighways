@@ -1,21 +1,19 @@
 ---
 layout: page
-title: Reading the Map I
+title: Reading the Map II
 css: /css/modules.css
 ---
 
 <div class="panel-group">
   <div class="panel panel-primary">
     <div class="panel-heading">Navigating Graduation Requirements I</div>
-    <div class="panel-body">To graduate from Northland you must meet certain academic requirements that include completing the Liberal Education for the Environment and Society (LEES) curriculum and the curriculum for a major. Some students may choose to complete an additional major, a minor, or multiple minors. In this module, you will be introduced to the requirements for graduating from Northland.
+    <div class="panel-body">A four-year plan is a map of when you plan to take courses that are required for the Liberal Education for the Environment and Society (LEES), your major(s), and, optionally, your minor(s) curricula. The four-year plan will also show you that you have "time" to take other courses that may interest you. A four-year plan will also help you be prepared for your biannual "registration advising" meeting with your academic advisor. In this module, you will complete the four-year plan that you began in the last module.
 <br><br>
 After completing this module, you should be able to ...
 <ol>
-  <li>Articulate Northland College’s mission</li>
-  <li>List three main graduation requirements</li>
-  <li>List four main categories in the LEES curriculum</li>
-  <li>Show how to find courses that fit the LEES categories</li>
-  <li>Show how to find courses required for a major (of interest)</li>
+  <li>Demonstrate how to gather information (e.g., required courses, prerequisites, times taught, overlap with LEES or other major/minor requirements) required to develop a four-year plan of courses.</li>
+  <li>Demonstrate how to develop a four-year plan of courses.</li>
+  <li>Describe what it means to be prepared for "registration advising" meetings with your academic advisor.</li>
 </ol>
     </div>
   </div>
@@ -25,19 +23,16 @@ After completing this module, you should be able to ...
 
 ## Preparation for Class (<span style="font-size:smaller; color:SteelBlue;">Do BEFORE Class</span>)
 
-* Print the requirements for a major or two that you are interested in.
-    * Goto the [College Catalog](http://catalog.northland.edu/){:target="_blank"} ... select "Majors and Minors" on the left ... scroll down to find and select your major ... select the printer icon in the upper-right (which will open a new window; [here is an example for History](http://catalog.northland.edu/preview_program.php?catoid=21&poid=1684&print){:target="_blank"}) ... select "Print This Page"
-* Also print the requirements for any minors that you are interested in.
+* Complete as much of the four-year plan worksheet (started last time) as you can or come with specific questions that you need answered to do so.
+* Bookmark/Favorite [this page](https://my.northland.edu/academics/#reg-howto){:target="_blank"}.
+* Make sure you know who your academic advisor is.
 
 ## In-Class Work
 
-* Discuss [Northland's Graduation Requirements](https://docs.google.com/presentation/d/1E2YLedjnlgkPj49P8IdWdOvuw8gq3nRaM5OO9I-wutk/edit?usp=sharing){:target="_blank"}.
-* Begin to build a [Four-Year Plan](https://docs.google.com/spreadsheets/d/1_rdl3OCltNrI3EwALsRCvBLAhsQflNVx/edit?usp=sharing&ouid=107081804861686762583&rtpof=true&sd=true){:target="_blank"} using these resources:
-    * [College Catalog](http://catalog.northland.edu/){:target="_blank"}
-    * [Graduation Requirements Checklist](https://drive.google.com/file/d/12kaIg4_m-SCiefAxFxzSz0DyWq31k9KX/view?usp=sharing){:target="_blank"}
-    * [Course Rotations List](https://my.northland.edu/academics/#rotations){:target="_blank"}
-    * Courses that Meet LEES Categories -- [webpage](http://catalog.northland.edu/preview_program.php?catoid=21&poid=1653){:target="_blank"} or [master list](https://my.northland.edu/wp-content/uploads/sites/2/2021/04/LEES-for-AY-2021-ALL.pdf){:target="_blank"}
+* Discuss your four-year plan.
+* Discuss [Registration Advising meetings](https://docs.google.com/presentation/d/1T1IV7vCAWLpCfDuvLsnmubMo22W-LBOcM5apTCFzHL8/edit#slide=id.gc6f73a04f_0_0){:target="_blank"}.
 
 ## After Class Assignment
 
-* Complete as much of the four-year plan worksheet as you can or develop specific questions that you need answered. In the next class period you will briefly discuss your draft four-year plan with me and the student mentor.
+* Complete your four-year plan worksheet. <span style="color:Maroon; font-weight:bold;">Due next class period.</span>
+* Do class preparation for next module.

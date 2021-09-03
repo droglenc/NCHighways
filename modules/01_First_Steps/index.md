@@ -25,7 +25,7 @@ After completing this module, you should be able to ...
 ## Preparation for Class (<span style="font-size:smaller; color:SteelBlue;">Do BEFORE Class</span>)
 
 * Read the course [syllabus](../../Syllabus-Current). [*~10 mins*]
-* Setup [a GradeScope account](modules/01-First_Steps/Gradescope_Setup). [*~5 mins*]
+* Setup [a GradeScope account](Gradescope_Setup). [*~5 mins*]
 * Read [Chapter 1](College Rules_Chapter 1.pdf) in *College Rules* (pwd is "Highways"). [*~15 mins*]
 * Read "How College Is Different" [handout](How is College Different from High School (Ogle).docx). [*~10 mins*]
     * Identify at least one item in each major grouping that stands out to you (i.e., you think it is especially important, you were surprised by it, you have questions about it, you don't agree with it, etc.)

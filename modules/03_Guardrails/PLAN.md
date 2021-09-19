@@ -49,6 +49,7 @@ css: /css/modules.css
 1. Maintenance
 1. Sunshine Community Bike Shoppe
     * Bike Shop and Rentals
+1. Art Building
 1. Memorial (and gardens)
 1. Wheeler
 1. Wakefield

@@ -17,8 +17,8 @@ title:
 <tr><th>7-Oct</th><td><a href="modules/06_Inequality">Bigger Picture</a></td></tr>
 <tr><th>14-Oct</th><td><a href="modules/07_Advising">Reading the Map I</a></td></tr>
 <tr><th>21-Oct</th><td><a href="modules/08_Advising">Reading the Map II</a></td></tr>
-<tr><th>28-Oct</th><td><a href="modules/09_Climate">Even Bigger Picture</a></td></tr>
-<tr><th>4-Nov</th><td><a href="modules/Wellness">XXKeep MovingXX</a></td></tr>
+<tr><th>28-Oct</th><td><a href="modules/09_OneOnOne">Checking In</a></td></tr>
+<tr><th>4-Nov</th><td><a href="modules/10_Climate">Even Bigger Picture</a></td></tr>
 <tr><th>11-Nov</th><td><a href="modules/11_Anishinabe">Close to Home</a></td></tr>
 <tr><th>18-Nov</th><td><a href="modules/12_Final">Rearview Mirror</a></td></tr>
 <tr><th>25-Nov</th><td>Thanksgiving (No Class)</td></tr>

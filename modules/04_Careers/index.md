@@ -30,10 +30,9 @@ After completing this module, you should be able to ...
 
 ## Class Work
 
-* Julie Winter, Student Career Advisor, will introduce Northland’s Career Services resources; demonstrate how to use Handshake (a program to help you find on- or off-campus work or internship positions); and introduce you to TypeFocus (an interactive program that assesses your interests and strengths, and introduces you to majors and careers that align with your interests).
+* Julie Winter, Student Career Advisor, will introduce Northland’s Career Services resources and introduce you to TypeFocus (an interactive program that assesses your interests and strengths, and introduces you to majors at Northland and careers that align with your interests). [Here is a guide for "claiming your TypeFocus account."](Claim your TypeFocus7 account guide.pdf)
 
 ## After Class Assignment
 
-* Complete a profile on Handshake. <span style="color:Maroon; font-weight:bold;">Screen capture or picture of your completed profile should be put on <a href="https://www.gradescope.com/courses/300162">GradeScope</a> by next Wednesday 6pm.</span>
-* Complete a TypeFocus inventory. <span style="color:Maroon; font-weight:bold;">Screen capture or picture of your completed profile should be put on <a href="https://www.gradescope.com/courses/300162">GradeScope</a> by next Wednesday 6pm.</span>
+* Complete a TypeFocus inventory. <span style="color:Maroon; font-weight:bold;">Screen capture or picture of your completed profile should be put on <a href="https://www.gradescope.com/courses/300162">GradeScope</a> by next Friday 6pm.</span>
 * Do class preparation for the next module.

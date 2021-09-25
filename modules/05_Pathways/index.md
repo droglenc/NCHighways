@@ -28,17 +28,18 @@ After completing this module, you should be able to ...
 
 ## In-Class Work
 
-* Field trip led by SOEI staff.
-    * Meet at Sigurd Olson Environmental Institute (west door that faces towards Fenenga) by 3pm.
-    * Bring your completed Participation Agreement to turn in.
-    * Please "unplug" for the whole time (including the van trips to and from the field site).
-    * The activity will include a hike in a local area. The hike will **NOT** be cancelled because of weather so pleas prepare appropriately for the weather of the day. To be prepared for the hike please have the following items:
-        * Closed-toed, sturdy shoes for hiking (no sandals, crocs, etc.).
-        * Warm layers.
-        * Waterproof outer layer (if there is a chance of rain).
-        * A full water bottle.
-        * [*Optionally] A hat, sunscreen, or day pack.
-    * We will return to campus by 5pm.
+Field trip led by SOEI staff.
+
+* Meet at Sigurd Olson Environmental Institute (west door that faces towards Fenenga) by 3pm.
+* Bring your completed Participation Agreement to turn in.
+* Please "unplug" for the whole time (including the van trips to and from the field site).
+* The activity will include a hike in a local area. The hike will **NOT** be cancelled because of weather so pleas prepare appropriately for the weather of the day. To be prepared for the hike please have the following items:
+    * Closed-toed, sturdy shoes for hiking (no sandals, crocs, etc.).
+    * Warm layers.
+    * Waterproof outer layer (if there is a chance of rain).
+    * A full water bottle.
+    * [*Optionally*] A hat, sunscreen, or day pack.
+* We will return to campus by 5pm.
 
 ## After Class Assignment
 

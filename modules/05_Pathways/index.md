@@ -23,16 +23,24 @@ After completing this module, you should be able to ...
 
 ## Preparation for Class (<span style="font-size:smaller; color:SteelBlue;">Do BEFORE Class</span>)
 
+* Complete [this Participation Agreement](Participation Agreement.pdf).
 * Read [10 Reasons WHy Being Outdoors is Important](https://askthescientists.com/outdoors/){:target="_blank"} [*~10 mins*]
 
 ## In-Class Work
 
 * Field trip led by SOEI staff.
-    * Meet at XXX.
+    * Meet at Sigurd Olson Environmental Institute (west door that faces towards Fenenga) by 3pm.
+    * Bring your completed Participation Agreement to turn in.
     * Please "unplug" for the whole time (including the van trips to and from the field site).
-    * We will return at XXX.
+    * The activity will include a hike in a local area. The hike will **NOT** be cancelled because of weather so pleas prepare appropriately for the weather of the day. To be prepared for the hike please have the following items:
+        * Closed-toed, sturdy shoes for hiking (no sandals, crocs, etc.).
+        * Warm layers.
+        * Waterproof outer layer (if there is a chance of rain).
+        * A full water bottle.
+        * [*Optionally] A hat, sunscreen, or day pack.
+    * We will return to campus by 5pm.
 
 ## After Class Assignment
 
-* Complete [Northwoods Pathways Reflection](Northwoods Pathways Reflection.docx) <span style="color:Maroon; font-weight:bold;">Due next class period.</span>
+* Complete [Northwoods Pathways Reflection](Northwoods Pathways Reflection.docx) <span style="color:Maroon; font-weight:bold;">Due on GradeScope by Friday, 6pm.</span>
 * Do class preparation for next module.

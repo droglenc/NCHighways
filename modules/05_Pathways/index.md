@@ -23,7 +23,7 @@ After completing this module, you should be able to ...
 
 ## Preparation for Class (<span style="font-size:smaller; color:SteelBlue;">Do BEFORE Class</span>)
 
-* Complete [this Participation Agreement](Participation Agreement.pdf).
+* Complete [this Participation Agreement](Participant Agreement.pdf).
 * Read [10 Reasons WHy Being Outdoors is Important](https://askthescientists.com/outdoors/){:target="_blank"} [*~10 mins*]
 
 ## In-Class Work

@@ -21,11 +21,12 @@ After completing this module, you should be able to ...
 
 ## Preparation for Class (<span style="font-size:smaller; color:SteelBlue;">Do BEFORE Class</span>)
 
-* xxx
+* We will meet in Wheeler 211 (with Prof. Schanning's *Highways* section)
 
 ## In-Class Work
 
-* XXX
+* We will meet in Wheeler 211 (with Prof. Schanning's *Highways* section)
+* We will participate in a lecture and discussion about "class inequality" by Prof. Bailey Troia.
 
 ## After Class Assignment
 

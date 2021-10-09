@@ -28,6 +28,7 @@ After completing this module, you should be able to ...
 * Print the requirements for a major or two that you are interested in.
     * Goto the [College Catalog](http://catalog.northland.edu/){:target="_blank"} ... select "Majors and Minors" on the left ... scroll down to find and select your major ... select the printer icon in the upper-right (which will open a new window; [here is an example for History](http://catalog.northland.edu/preview_program.php?catoid=21&poid=1684&print){:target="_blank"}) ... select "Print This Page"
 * Also print the requirements for any minors that you are interested in.
+* Prepare to bring a computer to class (if you don't have one then let me know ASAP).
 
 ## In-Class Work
 

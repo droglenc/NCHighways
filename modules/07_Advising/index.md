@@ -36,7 +36,7 @@ After completing this module, you should be able to ...
     * [College Catalog](http://catalog.northland.edu/){:target="_blank"}
     * [Graduation Requirements Checklist](https://drive.google.com/file/d/12kaIg4_m-SCiefAxFxzSz0DyWq31k9KX/view?usp=sharing){:target="_blank"}
     * [Course Rotations List](https://my.northland.edu/academics/#rotations){:target="_blank"}
-    * Courses that Meet LEES Categories -- [webpage](http://catalog.northland.edu/preview_program.php?catoid=21&poid=1653){:target="_blank"} or [master list](https://my.northland.edu/wp-content/uploads/sites/2/2021/04/LEES-for-AY-2021-ALL.pdf){:target="_blank"}
+    * Courses that Meet LEES Categories -- [webpage](http://catalog.northland.edu/preview_program.php?catoid=21&poid=1653){:target="_blank"} or master list ([PDF](https://my.northland.edu/wp-content/uploads/sites/2/2021/04/LEES-for-AY-2021-ALL.pdf){:target="_blank"} or [Excel](https://my.northland.edu/wp-content/uploads/sites/2/2021/09/LEES-for-AY-2021-ALL.xlsx))
 
 ## After Class Assignment
 

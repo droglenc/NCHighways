@@ -23,7 +23,7 @@ After completing this module, you should be able to ...
 
 ## Preparation for Class (<span style="font-size:smaller; color:SteelBlue;">Do BEFORE Class</span>)
 
-* Read [https://climate.nasa.gov/resources/global-warming-vs-climate-change/]{:target="_blank"} [*~5 min*] and complete [this worksheet](ClmateChange_Worksheet.pdf){:target="_blank"} [*~10 min*]
+* Read [this NOAA webpage](https://climate.nasa.gov/resources/global-warming-vs-climate-change/){:target="_blank"} [*~5 min*] and complete [this worksheet](ClimateChange_Worksheet.pdf){:target="_blank"} [*~10 min*]
 * Read [A Comment on Poor "Marketing" of Climate Change](Climate_Change_Marketing.jpg){:target="_blank"} [*~1 min*]
 
 ## In-Class Work
@@ -32,5 +32,5 @@ After completing this module, you should be able to ...
 
 ## After Class Assignment
 
-* Complete the preparation worksheet. <span style="color:Maroon; font-weight:bold;">Due next class period.</span>
+* Complete the preparation worksheet. <span style="color:Maroon; font-weight:bold;">Due Friday 5-Nov on GradeScope.</span>
 * Do class preparation for next module.

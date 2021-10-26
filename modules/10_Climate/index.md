@@ -11,7 +11,9 @@ css: /css/modules.css
 <br><br>
 After completing this module, you should be able to ...
 <ol>
-  <li>XXX</li>
+  <li>Describe the differences between "Global Warming" and "Climate Change".</li>
+  <li>Describe the primary contributor to "Global Warming" and "Climate Change".</li>
+  <li>Describe how much average temperature has increased in the last several decates.</li>
 </ol>
     </div>
   </div>
@@ -21,14 +23,14 @@ After completing this module, you should be able to ...
 
 ## Preparation for Class (<span style="font-size:smaller; color:SteelBlue;">Do BEFORE Class</span>)
 
-* Read XXX
+* Read [https://climate.nasa.gov/resources/global-warming-vs-climate-change/]{:target="_blank"} [*~5 min*] and complete [this worksheet](ClmateChange_Worksheet.pdf){:target="_blank"} [*~10 min*]
 * Read [A Comment on Poor "Marketing" of Climate Change](Climate_Change_Marketing.jpg){:target="_blank"} [*~1 min*]
 
 ## In-Class Work
 
-* XXX
+* Participate in the discussion led by Dr. Meghan Salmon-Tumas.
 
 ## After Class Assignment
 
-* XXX <span style="color:Maroon; font-weight:bold;">Due next class period.</span>
+* Complete the preparation worksheet. <span style="color:Maroon; font-weight:bold;">Due next class period.</span>
 * Do class preparation for next module.

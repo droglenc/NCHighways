@@ -22,9 +22,9 @@ After completing this module, you should be able to ...
 ## Preparation for Class (<span style="font-size:smaller; color:SteelBlue;">Do BEFORE Class</span>)
 
 * Read [A Brief History of Northland College Commitments to the Ojibwe](A Brief History of Northland College Commitments to the Ojibwe.pdf){:target="_blank"} [*~5 mins*]
+* Read [Ojibwe Treaty Rights](https://www.mpm.edu/educators/wirp/nations/ojibwe/treaty-rights){:target="_blank"} [*~8 mins*]
 * Read [Mashkiiziibii Gaa-Pi-Inakamigak](http://www.badriver-nsn.gov/history/){:target="_blank"} (i.e., "Bad River History") [*~5 mins*]
 * Read [Mashkiiziibii Enaadizing](http://www.badriver-nsn.gov/culture/){:target="_blank"} (i.e., "Bad River Culture") [*~3 mins*]
-* Read [Ojibwe Treaty Rights](http://www.mpm.edu/plan-visit/educators/wirp/nations/ojibwe/treaty-rights){:target="_blank"} [*~8 mins*]
 * Watch two of the following videos.
     * ["Lifting Nets: Gurnoe Decision"](https://youtu.be/ZmcdaUtLU1E){:target="_blank"} [*~5 mins*]
     * ["Crossing the Line: Tribble Brothers"](https://youtu.be/KSpEGhWR44Q){:target="_blank"} [*~5 mins*]

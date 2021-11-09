@@ -11,7 +11,9 @@ css: /css/modules.css
 <br><br>
 After completing this module, you should be able to ...
 <ol>
-  <li>XXX</li>
+  <li>Briefly describe some of the culture and history of the local Ojibwe people.</li>
+  <li>Describe specifics of treaties between indigenous nations and the United States as they affect the region around Northland College.</li>
+  <li>Describe some historic events from the local region as they relate to affirming the rights of indigenous communities as preserved in treaties.</li>
 </ol>
     </div>
   </div>
@@ -35,9 +37,8 @@ After completing this module, you should be able to ...
 
 ## In-Class Work
 
-* XXX
+* Particpate in a lecture and discussion with our guest speaker.
 
 ## After Class Assignment
 
 * XXX <span style="color:Maroon; font-weight:bold;">Due next class period.</span>
-* Do class preparation for next module.

@@ -21,4 +21,4 @@ css: /css/modules.css
 
 ## In-Class Work
 
-* Begin [this assignment](Final Reflection (Ogle).docx). <span style="color:Maroon; font-weight:bold;">Due via e-mail to me on or before 29-Nov.</span>
+* Begin [this assignment](Final Reflection (Ogle).docx). <span style="color:Maroon; font-weight:bold;">Due via e-mail to me on or before noon of 29-Nov.</span>
